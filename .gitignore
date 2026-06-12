@@ -1,2 +1,10 @@
 /.env
 /load_health_data.py
+/*_pycache__
+
+
+__pycache__
+/src/*_pycache__
+/*venv
+*venv
+*.pkl

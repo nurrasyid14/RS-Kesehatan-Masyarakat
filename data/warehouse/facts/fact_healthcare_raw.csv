@@ -1,0 +1,1521 @@
+province_id,Provinsi,indicator,value
+1,Aceh,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,81.0
+1,Aceh,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,37.08
+1,Aceh,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.06
+1,Aceh,Jumlah Kasus Penyakit - Angka Penemuan TBC,68.0
+1,Aceh,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,338.0
+1,Aceh,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,4.32
+1,Aceh,Jumlah Puskesmas Non Rawat Inap,192.0
+1,Aceh,Jumlah Puskesmas Rawat Inap,174.0
+1,Aceh,Jumlah Rumah Sakit Khusus,9.0
+1,Aceh,Jumlah Rumah Sakit Umum,77.0
+1,Aceh,Jumlah Tenaga Kesehatan Psikologi Klinis,77.0
+1,Aceh,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+1,Aceh,Jumlah Tenaga Keteknisan Medis,2.0
+1,Aceh,Jumlah Tenaga Keterapian Fisik,484.0
+1,Aceh,Jumlah Tenaga Medis,6.0
+1,Aceh,Jumlah Tenaga Teknik Biomedika,2.0
+1,Aceh,Tenaga Gizi,1.0
+1,Aceh,Tenaga Kebidanan,21.0
+1,Aceh,Tenaga Kefarmasian,4.0
+1,Aceh,Tenaga Kesehatan Lingkungan,1.0
+1,Aceh,Tenaga Kesehatan Masyarakat,4.0
+1,Aceh,Tenaga Medis,21.0
+1,Aceh,disease_burden_index,88.07666666666667
+1,Aceh,facility_index,183.0
+1,Aceh,insurance_coverage_index,0.1998
+1,Aceh,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0013
+1,Aceh,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.125
+1,Aceh,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.8529000000000001
+1,Aceh,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0128
+1,Aceh,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0069999999999999
+1,Aceh,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+1,Aceh,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0294
+1,Aceh,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3236
+1,Aceh,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0195
+1,Aceh,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.004
+1,Aceh,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+1,Aceh,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+1,Aceh,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+1,Aceh,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6204999999999999
+1,Aceh,workforce_capacity_index,54.17753623188406
+2,Bali,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,81.0
+2,Bali,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,232.87
+2,Bali,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.01
+2,Bali,Jumlah Kasus Penyakit - Angka Penemuan TBC,83.0
+2,Bali,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,2024.0
+2,Bali,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,3.01
+2,Bali,Jumlah Puskesmas Non Rawat Inap,82.0
+2,Bali,Jumlah Puskesmas Rawat Inap,38.0
+2,Bali,Jumlah Rumah Sakit Khusus,16.0
+2,Bali,Jumlah Rumah Sakit Umum,66.0
+2,Bali,Jumlah Tenaga Kesehatan Psikologi Klinis,53.0
+2,Bali,Jumlah Tenaga Kesehatan Tradisional,16.0
+2,Bali,Jumlah Tenaga Keteknisan Medis,1.0
+2,Bali,Jumlah Tenaga Keterapian Fisik,427.0
+2,Bali,Jumlah Tenaga Medis,8.0
+2,Bali,Jumlah Tenaga Teknik Biomedika,2.0
+2,Bali,Tenaga Gizi,788.0
+2,Bali,Tenaga Kebidanan,6.0
+2,Bali,Tenaga Kefarmasian,4.0
+2,Bali,Tenaga Kesehatan Lingkungan,556.0
+2,Bali,Tenaga Kesehatan Masyarakat,1.0
+2,Bali,Tenaga Medis,13.0
+2,Bali,disease_burden_index,403.98166666666674
+2,Bali,facility_index,60.0
+2,Bali,insurance_coverage_index,0.18316
+2,Bali,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0053
+2,Bali,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.3765
+2,Bali,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.5146999999999999
+2,Bali,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0012
+2,Bali,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0181
+2,Bali,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+2,Bali,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0159705882352941
+2,Bali,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3657
+2,Bali,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+2,Bali,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+2,Bali,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+2,Bali,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+2,Bali,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+2,Bali,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6186
+2,Bali,workforce_capacity_index,156.25
+3,Banten,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,91.0
+3,Banten,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,56.14
+3,Banten,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.01
+3,Banten,Jumlah Kasus Penyakit - Angka Penemuan TBC,112.0
+3,Banten,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,2289.0
+3,Banten,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,7.06
+3,Banten,Jumlah Puskesmas Non Rawat Inap,190.0
+3,Banten,Jumlah Puskesmas Rawat Inap,63.0
+3,Banten,Jumlah Rumah Sakit Khusus,25.0
+3,Banten,Jumlah Rumah Sakit Umum,111.0
+3,Banten,Jumlah Tenaga Kesehatan Psikologi Klinis,91.0
+3,Banten,Jumlah Tenaga Kesehatan Tradisional,10.0
+3,Banten,Jumlah Tenaga Keteknisan Medis,2.0
+3,Banten,Jumlah Tenaga Keterapian Fisik,766.0
+3,Banten,Jumlah Tenaga Medis,12.0
+3,Banten,Jumlah Tenaga Teknik Biomedika,3.0
+3,Banten,Tenaga Gizi,815.0
+3,Banten,Tenaga Kebidanan,10.0
+3,Banten,Tenaga Kefarmasian,6.0
+3,Banten,Tenaga Kesehatan Lingkungan,537.0
+3,Banten,Tenaga Kesehatan Masyarakat,1.0
+3,Banten,Tenaga Medis,19.0
+3,Banten,disease_burden_index,425.8683333333333
+3,Banten,facility_index,126.5
+3,Banten,insurance_coverage_index,0.1637
+3,Banten,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.01
+3,Banten,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.3215999999999999
+3,Banten,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.4169
+3,Banten,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.027
+3,Banten,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.043
+3,Banten,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+3,Banten,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0157
+3,Banten,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3628
+3,Banten,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0075
+3,Banten,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.006
+3,Banten,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+3,Banten,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+3,Banten,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0144
+3,Banten,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.5911
+3,Banten,workforce_capacity_index,189.33333333333331
+4,Bengkulu,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,76.0
+4,Bengkulu,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,41.35
+4,Bengkulu,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,17.34722222222222
+4,Bengkulu,Jumlah Kasus Penyakit - Angka Penemuan TBC,48.0
+4,Bengkulu,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,197.0
+4,Bengkulu,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,1.55
+4,Bengkulu,Jumlah Puskesmas Non Rawat Inap,127.0
+4,Bengkulu,Jumlah Puskesmas Rawat Inap,52.0
+4,Bengkulu,Jumlah Rumah Sakit Khusus,3.0
+4,Bengkulu,Jumlah Rumah Sakit Umum,25.0
+4,Bengkulu,Jumlah Tenaga Kesehatan Psikologi Klinis,16.0
+4,Bengkulu,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+4,Bengkulu,Jumlah Tenaga Keteknisan Medis,367.0
+4,Bengkulu,Jumlah Tenaga Keterapian Fisik,86.0
+4,Bengkulu,Jumlah Tenaga Medis,1.0
+4,Bengkulu,Jumlah Tenaga Teknik Biomedika,931.0
+4,Bengkulu,Tenaga Gizi,578.0
+4,Bengkulu,Tenaga Kebidanan,5.0
+4,Bengkulu,Tenaga Kefarmasian,1.0
+4,Bengkulu,Tenaga Kesehatan Lingkungan,330.0
+4,Bengkulu,Tenaga Kesehatan Masyarakat,1.0
+4,Bengkulu,Tenaga Medis,5.0
+4,Bengkulu,disease_burden_index,63.54120370370371
+4,Bengkulu,facility_index,89.5
+4,Bengkulu,insurance_coverage_index,0.1566116129032258
+4,Bengkulu,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.003958064516129
+4,Bengkulu,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2658
+4,Bengkulu,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.4874
+4,Bengkulu,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0089
+4,Bengkulu,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.017
+4,Bengkulu,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+4,Bengkulu,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.011
+4,Bengkulu,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.345
+4,Bengkulu,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+4,Bengkulu,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+4,Bengkulu,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+4,Bengkulu,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+4,Bengkulu,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0042
+4,Bengkulu,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6346
+4,Bengkulu,workforce_capacity_index,195.67753623188403
+5,DI Yogyakarta,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,85.0
+5,DI Yogyakarta,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,53.31
+5,DI Yogyakarta,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.04
+5,DI Yogyakarta,Jumlah Kasus Penyakit - Angka Penemuan TBC,75.0
+5,DI Yogyakarta,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,944.0
+5,DI Yogyakarta,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,0.76
+5,DI Yogyakarta,Jumlah Puskesmas Non Rawat Inap,74.0
+5,DI Yogyakarta,Jumlah Puskesmas Rawat Inap,47.0
+5,DI Yogyakarta,Jumlah Rumah Sakit Khusus,16.0
+5,DI Yogyakarta,Jumlah Rumah Sakit Umum,64.0
+5,DI Yogyakarta,Jumlah Tenaga Kesehatan Psikologi Klinis,178.0
+5,DI Yogyakarta,Jumlah Tenaga Kesehatan Tradisional,4.0
+5,DI Yogyakarta,Jumlah Tenaga Keteknisan Medis,2.0
+5,DI Yogyakarta,Jumlah Tenaga Keterapian Fisik,599.0
+5,DI Yogyakarta,Jumlah Tenaga Medis,6.0
+5,DI Yogyakarta,Jumlah Tenaga Teknik Biomedika,2.0
+5,DI Yogyakarta,Tenaga Gizi,634.0
+5,DI Yogyakarta,Tenaga Kebidanan,3.0
+5,DI Yogyakarta,Tenaga Kefarmasian,5.0
+5,DI Yogyakarta,Tenaga Kesehatan Lingkungan,398.0
+5,DI Yogyakarta,Tenaga Kesehatan Masyarakat,490.0
+5,DI Yogyakarta,Tenaga Medis,12.0
+5,DI Yogyakarta,disease_burden_index,193.0183333333333
+5,DI Yogyakarta,facility_index,60.5
+5,DI Yogyakarta,insurance_coverage_index,0.18372
+5,DI Yogyakarta,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0078
+5,DI Yogyakarta,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.3043
+5,DI Yogyakarta,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.5864
+5,DI Yogyakarta,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.002
+5,DI Yogyakarta,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0181
+5,DI Yogyakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+5,DI Yogyakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0141
+5,DI Yogyakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2376
+5,DI Yogyakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0089
+5,DI Yogyakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+5,DI Yogyakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+5,DI Yogyakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+5,DI Yogyakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+5,DI Yogyakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.7341
+5,DI Yogyakarta,workforce_capacity_index,194.41666666666663
+6,DKI Jakarta,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,78.0
+6,DKI Jakarta,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,95.17
+6,DKI Jakarta,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.05
+6,DKI Jakarta,Jumlah Kasus Penyakit - Angka Penemuan TBC,86.0
+6,DKI Jakarta,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,4353.0
+6,DKI Jakarta,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,4.44
+6,DKI Jakarta,Jumlah Puskesmas Non Rawat Inap,42.0
+6,DKI Jakarta,Jumlah Puskesmas Rawat Inap,2.0
+6,DKI Jakarta,Jumlah Rumah Sakit Khusus,52.0
+6,DKI Jakarta,Jumlah Rumah Sakit Umum,142.0
+6,DKI Jakarta,Jumlah Tenaga Kesehatan Psikologi Klinis,333.0
+6,DKI Jakarta,Jumlah Tenaga Kesehatan Tradisional,166.0
+6,DKI Jakarta,Jumlah Tenaga Keteknisan Medis,5.0
+6,DKI Jakarta,Jumlah Tenaga Keterapian Fisik,2.0
+6,DKI Jakarta,Jumlah Tenaga Medis,28.0
+6,DKI Jakarta,Jumlah Tenaga Teknik Biomedika,8.0
+6,DKI Jakarta,Tenaga Gizi,1.0
+6,DKI Jakarta,Tenaga Kebidanan,7.0
+6,DKI Jakarta,Tenaga Kefarmasian,13.0
+6,DKI Jakarta,Tenaga Kesehatan Lingkungan,743.0
+6,DKI Jakarta,Tenaga Kesehatan Masyarakat,1.0
+6,DKI Jakarta,Tenaga Medis,39.0
+6,DKI Jakarta,disease_burden_index,769.4433333333333
+6,DKI Jakarta,facility_index,22.0
+6,DKI Jakarta,insurance_coverage_index,0.2100523529411764
+6,DKI Jakarta,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0195
+6,DKI Jakarta,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.295
+6,DKI Jakarta,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.6214
+6,DKI Jakarta,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0681617647058823
+6,DKI Jakarta,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0462
+6,DKI Jakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+6,DKI Jakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0096
+6,DKI Jakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3428
+6,DKI Jakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0058
+6,DKI Jakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+6,DKI Jakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+6,DKI Jakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+6,DKI Jakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+6,DKI Jakarta,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6365
+6,DKI Jakarta,workforce_capacity_index,112.16666666666669
+7,Gorontalo,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,88.0
+7,Gorontalo,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,54.5
+7,Gorontalo,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,1.89
+7,Gorontalo,Jumlah Kasus Penyakit - Angka Penemuan TBC,77.0
+7,Gorontalo,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,235.0
+7,Gorontalo,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,16.58
+7,Gorontalo,Jumlah Puskesmas Non Rawat Inap,71.0
+7,Gorontalo,Jumlah Puskesmas Rawat Inap,24.0
+7,Gorontalo,Jumlah Rumah Sakit Khusus,1.0
+7,Gorontalo,Jumlah Rumah Sakit Umum,21.0
+7,Gorontalo,Jumlah Tenaga Kesehatan Psikologi Klinis,3.0
+7,Gorontalo,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+7,Gorontalo,Jumlah Tenaga Keteknisan Medis,238.0
+7,Gorontalo,Jumlah Tenaga Keterapian Fisik,39.0
+7,Gorontalo,Jumlah Tenaga Medis,750.0
+7,Gorontalo,Jumlah Tenaga Teknik Biomedika,501.0
+7,Gorontalo,Tenaga Gizi,579.0
+7,Gorontalo,Tenaga Kebidanan,2.0
+7,Gorontalo,Tenaga Kefarmasian,731.0
+7,Gorontalo,Tenaga Kesehatan Lingkungan,248.0
+7,Gorontalo,Tenaga Kesehatan Masyarakat,1.0
+7,Gorontalo,Tenaga Medis,4.0
+7,Gorontalo,disease_burden_index,78.82833333333333
+7,Gorontalo,facility_index,47.5
+7,Gorontalo,insurance_coverage_index,0.1783
+7,Gorontalo,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.003
+7,Gorontalo,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.1714999999999999
+7,Gorontalo,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.6994
+7,Gorontalo,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0014
+7,Gorontalo,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0162
+7,Gorontalo,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+7,Gorontalo,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0046999999999999
+7,Gorontalo,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2004
+7,Gorontalo,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+7,Gorontalo,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+7,Gorontalo,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+7,Gorontalo,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+7,Gorontalo,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+7,Gorontalo,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.7916
+7,Gorontalo,workforce_capacity_index,260.2608695652174
+8,Jambi,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,86.0
+8,Jambi,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,37.87
+8,Jambi,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.02
+8,Jambi,Jumlah Kasus Penyakit - Angka Penemuan TBC,65.0
+8,Jambi,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,326.0
+8,Jambi,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,1.63
+8,Jambi,Jumlah Puskesmas Non Rawat Inap,110.0
+8,Jambi,Jumlah Puskesmas Rawat Inap,98.0
+8,Jambi,Jumlah Rumah Sakit Khusus,3.0
+8,Jambi,Jumlah Rumah Sakit Umum,42.0
+8,Jambi,Jumlah Tenaga Kesehatan Psikologi Klinis,30.0
+8,Jambi,Jumlah Tenaga Kesehatan Tradisional,9.0
+8,Jambi,Jumlah Tenaga Keteknisan Medis,857.0
+8,Jambi,Jumlah Tenaga Keterapian Fisik,218.0
+8,Jambi,Jumlah Tenaga Medis,3.0
+8,Jambi,Jumlah Tenaga Teknik Biomedika,1.0
+8,Jambi,Tenaga Gizi,521.0
+8,Jambi,Tenaga Kebidanan,7.0
+8,Jambi,Tenaga Kefarmasian,2.0
+8,Jambi,Tenaga Kesehatan Lingkungan,474.0
+8,Jambi,Tenaga Kesehatan Masyarakat,1.0
+8,Jambi,Tenaga Medis,8.0
+8,Jambi,disease_burden_index,86.08666666666666
+8,Jambi,facility_index,104.0
+8,Jambi,insurance_coverage_index,0.1411923529411764
+8,Jambi,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0055
+8,Jambi,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.287
+8,Jambi,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.3234
+8,Jambi,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0681617647058823
+8,Jambi,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0219
+8,Jambi,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+8,Jambi,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0174
+8,Jambi,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.332
+8,Jambi,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0056
+8,Jambi,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+8,Jambi,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+8,Jambi,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+8,Jambi,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059
+8,Jambi,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6373
+8,Jambi,workforce_capacity_index,177.58333333333334
+9,Jawa Barat,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,86.0
+9,Jawa Barat,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,88.17
+9,Jawa Barat,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.02
+9,Jawa Barat,Jumlah Kasus Penyakit - Angka Penemuan TBC,97.0
+9,Jawa Barat,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,9212.0
+9,Jawa Barat,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,12.69375
+9,Jawa Barat,Jumlah Puskesmas Non Rawat Inap,827.0
+9,Jawa Barat,Jumlah Puskesmas Rawat Inap,279.0
+9,Jawa Barat,Jumlah Rumah Sakit Khusus,54.0
+9,Jawa Barat,Jumlah Rumah Sakit Umum,382.0
+9,Jawa Barat,Jumlah Tenaga Kesehatan Psikologi Klinis,263.0
+9,Jawa Barat,Jumlah Tenaga Kesehatan Tradisional,40.0
+9,Jawa Barat,Jumlah Tenaga Keteknisan Medis,9.0
+9,Jawa Barat,Jumlah Tenaga Keterapian Fisik,2.0
+9,Jawa Barat,Jumlah Tenaga Medis,33.0
+9,Jawa Barat,Jumlah Tenaga Teknik Biomedika,12.0
+9,Jawa Barat,Tenaga Gizi,3.0
+9,Jawa Barat,Tenaga Kebidanan,33.0
+9,Jawa Barat,Tenaga Kefarmasian,26.0
+9,Jawa Barat,Tenaga Kesehatan Lingkungan,2.0
+9,Jawa Barat,Tenaga Kesehatan Masyarakat,4.0
+9,Jawa Barat,Tenaga Medis,74.0
+9,Jawa Barat,disease_burden_index,1582.647291666667
+9,Jawa Barat,facility_index,553.0
+9,Jawa Barat,insurance_coverage_index,0.15052
+9,Jawa Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0089
+9,Jawa Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2864
+9,Jawa Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.4161999999999999
+9,Jawa Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0048
+9,Jawa Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0363
+9,Jawa Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+9,Jawa Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0113999999999999
+9,Jawa Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2994
+9,Jawa Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0034
+9,Jawa Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0019
+9,Jawa Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.0048
+9,Jawa Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+9,Jawa Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0076
+9,Jawa Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6713
+9,Jawa Barat,workforce_capacity_index,41.75
+10,Jawa Tengah,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,86.0
+10,Jawa Tengah,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,27.81
+10,Jawa Tengah,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.02
+10,Jawa Tengah,Jumlah Kasus Penyakit - Angka Penemuan TBC,84.0
+10,Jawa Tengah,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,6057.0
+10,Jawa Tengah,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,4.01
+10,Jawa Tengah,Jumlah Puskesmas Non Rawat Inap,512.0
+10,Jawa Tengah,Jumlah Puskesmas Rawat Inap,369.0
+10,Jawa Tengah,Jumlah Rumah Sakit Khusus,52.0
+10,Jawa Tengah,Jumlah Rumah Sakit Umum,317.0
+10,Jawa Tengah,Jumlah Tenaga Kesehatan Psikologi Klinis,240.0
+10,Jawa Tengah,Jumlah Tenaga Kesehatan Tradisional,34.0
+10,Jawa Tengah,Jumlah Tenaga Keteknisan Medis,8.0
+10,Jawa Tengah,Jumlah Tenaga Keterapian Fisik,3.0
+10,Jawa Tengah,Jumlah Tenaga Medis,21.0
+10,Jawa Tengah,Jumlah Tenaga Teknik Biomedika,10.0
+10,Jawa Tengah,Tenaga Gizi,3.0
+10,Jawa Tengah,Tenaga Kebidanan,30.0
+10,Jawa Tengah,Tenaga Kefarmasian,25.0
+10,Jawa Tengah,Tenaga Kesehatan Lingkungan,2.0
+10,Jawa Tengah,Tenaga Kesehatan Masyarakat,4.0
+10,Jawa Tengah,Tenaga Medis,66.0
+10,Jawa Tengah,disease_burden_index,1043.14
+10,Jawa Tengah,facility_index,440.5
+10,Jawa Tengah,insurance_coverage_index,0.1504599999999999
+10,Jawa Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0024
+10,Jawa Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2459
+10,Jawa Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.4797999999999999
+10,Jawa Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0058
+10,Jawa Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0184
+10,Jawa Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+10,Jawa Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0097
+10,Jawa Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2769
+10,Jawa Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0023
+10,Jawa Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0015
+10,Jawa Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.001
+10,Jawa Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.0005
+10,Jawa Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0032
+10,Jawa Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.7049
+10,Jawa Tengah,workforce_capacity_index,37.16666666666666
+11,Jawa Timur,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,88.0
+11,Jawa Timur,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,49.29
+11,Jawa Timur,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.02
+11,Jawa Timur,Jumlah Kasus Penyakit - Angka Penemuan TBC,77.0
+11,Jawa Timur,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,10612.0
+11,Jawa Timur,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,5.14
+11,Jawa Timur,Jumlah Puskesmas Non Rawat Inap,354.0
+11,Jawa Timur,Jumlah Puskesmas Rawat Inap,622.0
+11,Jawa Timur,Jumlah Rumah Sakit Khusus,84.0
+11,Jawa Timur,Jumlah Rumah Sakit Umum,358.0
+11,Jawa Timur,Jumlah Tenaga Kesehatan Psikologi Klinis,230.0
+11,Jawa Timur,Jumlah Tenaga Kesehatan Tradisional,187.0
+11,Jawa Timur,Jumlah Tenaga Keteknisan Medis,7.0
+11,Jawa Timur,Jumlah Tenaga Keterapian Fisik,2.0
+11,Jawa Timur,Jumlah Tenaga Medis,26.0
+11,Jawa Timur,Jumlah Tenaga Teknik Biomedika,11.0
+11,Jawa Timur,Tenaga Gizi,4.0
+11,Jawa Timur,Tenaga Kebidanan,33.0
+11,Jawa Timur,Tenaga Kefarmasian,22.0
+11,Jawa Timur,Tenaga Kesehatan Lingkungan,2.0
+11,Jawa Timur,Tenaga Kesehatan Masyarakat,4.0
+11,Jawa Timur,Tenaga Medis,74.0
+11,Jawa Timur,disease_burden_index,1805.2416666666668
+11,Jawa Timur,facility_index,488.0
+11,Jawa Timur,insurance_coverage_index,0.15442
+11,Jawa Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0039
+11,Jawa Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2108
+11,Jawa Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.5175
+11,Jawa Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0172
+11,Jawa Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0227
+11,Jawa Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+11,Jawa Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0132
+11,Jawa Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2897
+11,Jawa Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0029
+11,Jawa Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0014
+11,Jawa Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.0011
+11,Jawa Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+11,Jawa Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0019
+11,Jawa Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6894
+11,Jawa Timur,workforce_capacity_index,50.16666666666666
+12,Kalimantan Barat,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,86.0
+12,Kalimantan Barat,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,36.4
+12,Kalimantan Barat,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.01
+12,Kalimantan Barat,Jumlah Kasus Penyakit - Angka Penemuan TBC,75.0
+12,Kalimantan Barat,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,1113.0
+12,Kalimantan Barat,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,12.69375
+12,Kalimantan Barat,Jumlah Puskesmas Non Rawat Inap,112.0
+12,Kalimantan Barat,Jumlah Puskesmas Rawat Inap,140.0
+12,Kalimantan Barat,Jumlah Rumah Sakit Khusus,8.0
+12,Kalimantan Barat,Jumlah Rumah Sakit Umum,51.0
+12,Kalimantan Barat,Jumlah Tenaga Kesehatan Psikologi Klinis,25.0
+12,Kalimantan Barat,Jumlah Tenaga Kesehatan Tradisional,2.0
+12,Kalimantan Barat,Jumlah Tenaga Keteknisan Medis,1.0
+12,Kalimantan Barat,Jumlah Tenaga Keterapian Fisik,199.0
+12,Kalimantan Barat,Jumlah Tenaga Medis,3.0
+12,Kalimantan Barat,Jumlah Tenaga Teknik Biomedika,2.0
+12,Kalimantan Barat,Tenaga Gizi,853.0
+12,Kalimantan Barat,Tenaga Kebidanan,7.0
+12,Kalimantan Barat,Tenaga Kefarmasian,2.0
+12,Kalimantan Barat,Tenaga Kesehatan Lingkungan,661.0
+12,Kalimantan Barat,Tenaga Kesehatan Masyarakat,1.0
+12,Kalimantan Barat,Tenaga Medis,11.0
+12,Kalimantan Barat,disease_burden_index,220.5172916666667
+12,Kalimantan Barat,facility_index,126.0
+12,Kalimantan Barat,insurance_coverage_index,0.14744
+12,Kalimantan Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0034
+12,Kalimantan Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2612
+12,Kalimantan Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.3938
+12,Kalimantan Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0611
+12,Kalimantan Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0177
+12,Kalimantan Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+12,Kalimantan Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0159705882352941
+12,Kalimantan Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3718999999999999
+12,Kalimantan Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0024
+12,Kalimantan Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.003
+12,Kalimantan Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+12,Kalimantan Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.004
+12,Kalimantan Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0034
+12,Kalimantan Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6122
+12,Kalimantan Barat,workforce_capacity_index,147.25
+13,Kalimantan Selatan,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,78.0
+13,Kalimantan Selatan,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,13.65
+13,Kalimantan Selatan,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.05
+13,Kalimantan Selatan,Jumlah Kasus Penyakit - Angka Penemuan TBC,77.0
+13,Kalimantan Selatan,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,662.0
+13,Kalimantan Selatan,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,3.02
+13,Kalimantan Selatan,Jumlah Puskesmas Non Rawat Inap,190.0
+13,Kalimantan Selatan,Jumlah Puskesmas Rawat Inap,52.0
+13,Kalimantan Selatan,Jumlah Rumah Sakit Khusus,8.0
+13,Kalimantan Selatan,Jumlah Rumah Sakit Umum,44.0
+13,Kalimantan Selatan,Jumlah Tenaga Kesehatan Psikologi Klinis,57.0
+13,Kalimantan Selatan,Jumlah Tenaga Kesehatan Tradisional,3.0
+13,Kalimantan Selatan,Jumlah Tenaga Keteknisan Medis,2.0
+13,Kalimantan Selatan,Jumlah Tenaga Keterapian Fisik,265.0
+13,Kalimantan Selatan,Jumlah Tenaga Medis,3.0
+13,Kalimantan Selatan,Jumlah Tenaga Teknik Biomedika,2.0
+13,Kalimantan Selatan,Tenaga Gizi,1.0
+13,Kalimantan Selatan,Tenaga Kebidanan,6.0
+13,Kalimantan Selatan,Tenaga Kefarmasian,3.0
+13,Kalimantan Selatan,Tenaga Kesehatan Lingkungan,657.0
+13,Kalimantan Selatan,Tenaga Kesehatan Masyarakat,1.0
+13,Kalimantan Selatan,Tenaga Medis,10.0
+13,Kalimantan Selatan,disease_burden_index,138.95333333333332
+13,Kalimantan Selatan,facility_index,121.0
+13,Kalimantan Selatan,insurance_coverage_index,0.1548999999999999
+13,Kalimantan Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.002
+13,Kalimantan Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2985
+13,Kalimantan Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.4416
+13,Kalimantan Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0031
+13,Kalimantan Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0293
+13,Kalimantan Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+13,Kalimantan Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0024
+13,Kalimantan Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2292
+13,Kalimantan Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0032
+13,Kalimantan Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+13,Kalimantan Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.0032
+13,Kalimantan Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+13,Kalimantan Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+13,Kalimantan Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.7508
+13,Kalimantan Selatan,workforce_capacity_index,84.16666666666667
+14,Kalimantan Tengah,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,77.0
+14,Kalimantan Tengah,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,40.84
+14,Kalimantan Tengah,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.12
+14,Kalimantan Tengah,Jumlah Kasus Penyakit - Angka Penemuan TBC,77.0
+14,Kalimantan Tengah,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,485.0
+14,Kalimantan Tengah,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,12.69375
+14,Kalimantan Tengah,Jumlah Puskesmas Non Rawat Inap,120.0
+14,Kalimantan Tengah,Jumlah Puskesmas Rawat Inap,85.0
+14,Kalimantan Tengah,Jumlah Rumah Sakit Khusus,3.0
+14,Kalimantan Tengah,Jumlah Rumah Sakit Umum,31.0
+14,Kalimantan Tengah,Jumlah Tenaga Kesehatan Psikologi Klinis,25.0
+14,Kalimantan Tengah,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+14,Kalimantan Tengah,Jumlah Tenaga Keteknisan Medis,617.0
+14,Kalimantan Tengah,Jumlah Tenaga Keterapian Fisik,145.0
+14,Kalimantan Tengah,Jumlah Tenaga Medis,2.0
+14,Kalimantan Tengah,Jumlah Tenaga Teknik Biomedika,1.0
+14,Kalimantan Tengah,Tenaga Gizi,584.0
+14,Kalimantan Tengah,Tenaga Kebidanan,5.0
+14,Kalimantan Tengah,Tenaga Kefarmasian,2.0
+14,Kalimantan Tengah,Tenaga Kesehatan Lingkungan,322.0
+14,Kalimantan Tengah,Tenaga Kesehatan Masyarakat,738.0
+14,Kalimantan Tengah,Tenaga Medis,8.0
+14,Kalimantan Tengah,disease_burden_index,115.44229166666668
+14,Kalimantan Tengah,facility_index,102.5
+14,Kalimantan Tengah,insurance_coverage_index,0.14374
+14,Kalimantan Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0021
+14,Kalimantan Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2805999999999999
+14,Kalimantan Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.3926
+14,Kalimantan Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0121
+14,Kalimantan Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0313
+14,Kalimantan Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+14,Kalimantan Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0072
+14,Kalimantan Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2854
+14,Kalimantan Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+14,Kalimantan Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+14,Kalimantan Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+14,Kalimantan Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+14,Kalimantan Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0083
+14,Kalimantan Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6960999999999999
+14,Kalimantan Tengah,workforce_capacity_index,206.34420289855072
+15,Kalimantan Timur,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,83.0
+15,Kalimantan Timur,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,144.77
+15,Kalimantan Timur,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.24
+15,Kalimantan Timur,Jumlah Kasus Penyakit - Angka Penemuan TBC,52.0
+15,Kalimantan Timur,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,1294.0
+15,Kalimantan Timur,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,2.76
+15,Kalimantan Timur,Jumlah Puskesmas Non Rawat Inap,97.0
+15,Kalimantan Timur,Jumlah Puskesmas Rawat Inap,91.0
+15,Kalimantan Timur,Jumlah Rumah Sakit Khusus,12.0
+15,Kalimantan Timur,Jumlah Rumah Sakit Umum,54.0
+15,Kalimantan Timur,Jumlah Tenaga Kesehatan Psikologi Klinis,41.0
+15,Kalimantan Timur,Jumlah Tenaga Kesehatan Tradisional,6.0
+15,Kalimantan Timur,Jumlah Tenaga Keteknisan Medis,950.0
+15,Kalimantan Timur,Jumlah Tenaga Keterapian Fisik,406.0
+15,Kalimantan Timur,Jumlah Tenaga Medis,4.0
+15,Kalimantan Timur,Jumlah Tenaga Teknik Biomedika,2.0
+15,Kalimantan Timur,Tenaga Gizi,496.0
+15,Kalimantan Timur,Tenaga Kebidanan,5.0
+15,Kalimantan Timur,Tenaga Kefarmasian,4.0
+15,Kalimantan Timur,Tenaga Kesehatan Lingkungan,390.0
+15,Kalimantan Timur,Tenaga Kesehatan Masyarakat,1.0
+15,Kalimantan Timur,Tenaga Medis,11.0
+15,Kalimantan Timur,disease_burden_index,262.795
+15,Kalimantan Timur,facility_index,94.0
+15,Kalimantan Timur,insurance_coverage_index,0.18308
+15,Kalimantan Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0109
+15,Kalimantan Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.4359
+15,Kalimantan Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.3918999999999999
+15,Kalimantan Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0023
+15,Kalimantan Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0744
+15,Kalimantan Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+15,Kalimantan Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0095
+15,Kalimantan Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3764
+15,Kalimantan Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0139
+15,Kalimantan Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+15,Kalimantan Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+15,Kalimantan Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+15,Kalimantan Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+15,Kalimantan Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.5901
+15,Kalimantan Timur,workforce_capacity_index,193.0
+16,Kalimantan Utara,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,69.0
+16,Kalimantan Utara,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,35.5
+16,Kalimantan Utara,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.08
+16,Kalimantan Utara,Jumlah Kasus Penyakit - Angka Penemuan TBC,64.0
+16,Kalimantan Utara,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,208.0
+16,Kalimantan Utara,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,6.14
+16,Kalimantan Utara,Jumlah Puskesmas Non Rawat Inap,38.0
+16,Kalimantan Utara,Jumlah Puskesmas Rawat Inap,20.0
+16,Kalimantan Utara,Jumlah Rumah Sakit Khusus,16.0625
+16,Kalimantan Utara,Jumlah Rumah Sakit Umum,17.0
+16,Kalimantan Utara,Jumlah Tenaga Kesehatan Psikologi Klinis,6.0
+16,Kalimantan Utara,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+16,Kalimantan Utara,Jumlah Tenaga Keteknisan Medis,223.0
+16,Kalimantan Utara,Jumlah Tenaga Keterapian Fisik,51.0
+16,Kalimantan Utara,Jumlah Tenaga Medis,744.0
+16,Kalimantan Utara,Jumlah Tenaga Teknik Biomedika,357.0
+16,Kalimantan Utara,Tenaga Gizi,144.0
+16,Kalimantan Utara,Tenaga Kebidanan,1.0
+16,Kalimantan Utara,Tenaga Kefarmasian,708.0
+16,Kalimantan Utara,Tenaga Kesehatan Lingkungan,126.0
+16,Kalimantan Utara,Tenaga Kesehatan Masyarakat,356.0
+16,Kalimantan Utara,Tenaga Medis,3.0
+16,Kalimantan Utara,disease_burden_index,63.78666666666666
+16,Kalimantan Utara,facility_index,29.0
+16,Kalimantan Utara,insurance_coverage_index,0.1951839658444022
+16,Kalimantan Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.003958064516129
+16,Kalimantan Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.3319
+16,Kalimantan Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.5521
+16,Kalimantan Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0681617647058823
+16,Kalimantan Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0197999999999999
+16,Kalimantan Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+16,Kalimantan Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0175
+16,Kalimantan Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2622
+16,Kalimantan Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0059
+16,Kalimantan Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+16,Kalimantan Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+16,Kalimantan Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+16,Kalimantan Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+16,Kalimantan Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.7006
+16,Kalimantan Utara,workforce_capacity_index,228.84420289855072
+17,Kepulauan Bangka Belitung,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,85.0
+17,Kepulauan Bangka Belitung,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,104.72
+17,Kepulauan Bangka Belitung,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.01
+17,Kepulauan Bangka Belitung,Jumlah Kasus Penyakit - Angka Penemuan TBC,63.0
+17,Kepulauan Bangka Belitung,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,282.0
+17,Kepulauan Bangka Belitung,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,3.5
+17,Kepulauan Bangka Belitung,Jumlah Puskesmas Non Rawat Inap,39.0
+17,Kepulauan Bangka Belitung,Jumlah Puskesmas Rawat Inap,25.0
+17,Kepulauan Bangka Belitung,Jumlah Rumah Sakit Khusus,4.0
+17,Kepulauan Bangka Belitung,Jumlah Rumah Sakit Umum,25.0
+17,Kepulauan Bangka Belitung,Jumlah Tenaga Kesehatan Psikologi Klinis,20.0
+17,Kepulauan Bangka Belitung,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+17,Kepulauan Bangka Belitung,Jumlah Tenaga Keteknisan Medis,402.0
+17,Kepulauan Bangka Belitung,Jumlah Tenaga Keterapian Fisik,114.0
+17,Kepulauan Bangka Belitung,Jumlah Tenaga Medis,1.0
+17,Kepulauan Bangka Belitung,Jumlah Tenaga Teknik Biomedika,585.0
+17,Kepulauan Bangka Belitung,Tenaga Gizi,247.0
+17,Kepulauan Bangka Belitung,Tenaga Kebidanan,2.0
+17,Kepulauan Bangka Belitung,Tenaga Kefarmasian,1.0
+17,Kepulauan Bangka Belitung,Tenaga Kesehatan Lingkungan,156.0
+17,Kepulauan Bangka Belitung,Tenaga Kesehatan Masyarakat,479.0
+17,Kepulauan Bangka Belitung,Tenaga Medis,4.0
+17,Kepulauan Bangka Belitung,disease_burden_index,89.705
+17,Kepulauan Bangka Belitung,facility_index,32.0
+17,Kepulauan Bangka Belitung,insurance_coverage_index,0.1843923529411764
+17,Kepulauan Bangka Belitung,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0027
+17,Kepulauan Bangka Belitung,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.3344
+17,Kepulauan Bangka Belitung,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.5065999999999999
+17,Kepulauan Bangka Belitung,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0681617647058823
+17,Kepulauan Bangka Belitung,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0101
+17,Kepulauan Bangka Belitung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+17,Kepulauan Bangka Belitung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0159705882352941
+17,Kepulauan Bangka Belitung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2189999999999999
+17,Kepulauan Bangka Belitung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.003
+17,Kepulauan Bangka Belitung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+17,Kepulauan Bangka Belitung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+17,Kepulauan Bangka Belitung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+17,Kepulauan Bangka Belitung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+17,Kepulauan Bangka Belitung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.7725
+17,Kepulauan Bangka Belitung,workforce_capacity_index,169.84420289855072
+18,Kepulauan Riau,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,82.0
+18,Kepulauan Riau,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,91.31
+18,Kepulauan Riau,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.25
+18,Kepulauan Riau,Jumlah Kasus Penyakit - Angka Penemuan TBC,50.0
+18,Kepulauan Riau,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,867.0
+18,Kepulauan Riau,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,1.79
+18,Kepulauan Riau,Jumlah Puskesmas Non Rawat Inap,68.0
+18,Kepulauan Riau,Jumlah Puskesmas Rawat Inap,28.0
+18,Kepulauan Riau,Jumlah Rumah Sakit Khusus,5.0
+18,Kepulauan Riau,Jumlah Rumah Sakit Umum,34.0
+18,Kepulauan Riau,Jumlah Tenaga Kesehatan Psikologi Klinis,25.0
+18,Kepulauan Riau,Jumlah Tenaga Kesehatan Tradisional,2.0
+18,Kepulauan Riau,Jumlah Tenaga Keteknisan Medis,549.0
+18,Kepulauan Riau,Jumlah Tenaga Keterapian Fisik,140.0
+18,Kepulauan Riau,Jumlah Tenaga Medis,3.0
+18,Kepulauan Riau,Jumlah Tenaga Teknik Biomedika,805.0
+18,Kepulauan Riau,Tenaga Gizi,273.0
+18,Kepulauan Riau,Tenaga Kebidanan,3.0
+18,Kepulauan Riau,Tenaga Kefarmasian,2.0
+18,Kepulauan Riau,Tenaga Kesehatan Lingkungan,342.0
+18,Kepulauan Riau,Tenaga Kesehatan Masyarakat,509.0
+18,Kepulauan Riau,Tenaga Medis,5.0
+18,Kepulauan Riau,disease_burden_index,182.0583333333333
+18,Kepulauan Riau,facility_index,48.0
+18,Kepulauan Riau,insurance_coverage_index,0.17686
+18,Kepulauan Riau,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0044
+18,Kepulauan Riau,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.4788
+18,Kepulauan Riau,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.3177
+18,Kepulauan Riau,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0069
+18,Kepulauan Riau,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0765
+18,Kepulauan Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+18,Kepulauan Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0259
+18,Kepulauan Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.345
+18,Kepulauan Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+18,Kepulauan Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+18,Kepulauan Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+18,Kepulauan Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+18,Kepulauan Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+18,Kepulauan Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6111
+18,Kepulauan Riau,workforce_capacity_index,221.5
+19,Lampung,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,92.0
+19,Lampung,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,69.21
+19,Lampung,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.2
+19,Lampung,Jumlah Kasus Penyakit - Angka Penemuan TBC,65.0
+19,Lampung,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,1134.0
+19,Lampung,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,1.89
+19,Lampung,Jumlah Puskesmas Non Rawat Inap,160.0
+19,Lampung,Jumlah Puskesmas Rawat Inap,162.0
+19,Lampung,Jumlah Rumah Sakit Khusus,19.0
+19,Lampung,Jumlah Rumah Sakit Umum,64.0
+19,Lampung,Jumlah Tenaga Kesehatan Psikologi Klinis,25.0
+19,Lampung,Jumlah Tenaga Kesehatan Tradisional,56.0
+19,Lampung,Jumlah Tenaga Keteknisan Medis,1.0
+19,Lampung,Jumlah Tenaga Keterapian Fisik,327.0
+19,Lampung,Jumlah Tenaga Medis,4.0
+19,Lampung,Jumlah Tenaga Teknik Biomedika,2.0
+19,Lampung,Tenaga Gizi,806.0
+19,Lampung,Tenaga Kebidanan,11.0
+19,Lampung,Tenaga Kefarmasian,3.0
+19,Lampung,Tenaga Kesehatan Lingkungan,758.0
+19,Lampung,Tenaga Kesehatan Masyarakat,1.0
+19,Lampung,Tenaga Medis,13.0
+19,Lampung,disease_burden_index,227.05000000000004
+19,Lampung,facility_index,161.0
+19,Lampung,insurance_coverage_index,0.1613799999999999
+19,Lampung,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0021
+19,Lampung,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.1846999999999999
+19,Lampung,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.4736999999999999
+19,Lampung,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.1242
+19,Lampung,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0222
+19,Lampung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+19,Lampung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.005
+19,Lampung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3712
+19,Lampung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+19,Lampung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0006
+19,Lampung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+19,Lampung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+19,Lampung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0023
+19,Lampung,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6172
+19,Lampung,workforce_capacity_index,167.25
+20,Maluku,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,85.0
+20,Maluku,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,8.07
+20,Maluku,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,1.67
+20,Maluku,Jumlah Kasus Penyakit - Angka Penemuan TBC,63.0
+20,Maluku,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,734.0
+20,Maluku,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,23.02
+20,Maluku,Jumlah Puskesmas Non Rawat Inap,147.0
+20,Maluku,Jumlah Puskesmas Rawat Inap,94.0
+20,Maluku,Jumlah Rumah Sakit Khusus,1.0
+20,Maluku,Jumlah Rumah Sakit Umum,28.0
+20,Maluku,Jumlah Tenaga Kesehatan Psikologi Klinis,11.0
+20,Maluku,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+20,Maluku,Jumlah Tenaga Keteknisan Medis,246.0
+20,Maluku,Jumlah Tenaga Keterapian Fisik,63.0
+20,Maluku,Jumlah Tenaga Medis,1.0
+20,Maluku,Jumlah Tenaga Teknik Biomedika,825.0
+20,Maluku,Tenaga Gizi,747.0
+20,Maluku,Tenaga Kebidanan,4.0
+20,Maluku,Tenaga Kefarmasian,946.0
+20,Maluku,Tenaga Kesehatan Lingkungan,661.0
+20,Maluku,Tenaga Kesehatan Masyarakat,2.0
+20,Maluku,Tenaga Medis,7.0
+20,Maluku,disease_burden_index,152.46
+20,Maluku,facility_index,120.5
+20,Maluku,insurance_coverage_index,0.1341399999999999
+20,Maluku,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0019
+20,Maluku,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2362
+20,Maluku,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.3969
+20,Maluku,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0235
+20,Maluku,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0121999999999999
+20,Maluku,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+20,Maluku,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0109
+20,Maluku,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3834
+20,Maluku,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+20,Maluku,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0025
+20,Maluku,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+20,Maluku,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+20,Maluku,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0064
+20,Maluku,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.5941
+20,Maluku,workforce_capacity_index,295.0108695652174
+21,Maluku Utara,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,75.0
+21,Maluku Utara,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,22.49
+21,Maluku Utara,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.22
+21,Maluku Utara,Jumlah Kasus Penyakit - Angka Penemuan TBC,80.0
+21,Maluku Utara,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,675.0
+21,Maluku Utara,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,56.48
+21,Maluku Utara,Jumlah Puskesmas Non Rawat Inap,93.0
+21,Maluku Utara,Jumlah Puskesmas Rawat Inap,57.0
+21,Maluku Utara,Jumlah Rumah Sakit Khusus,2.0
+21,Maluku Utara,Jumlah Rumah Sakit Umum,21.0
+21,Maluku Utara,Jumlah Tenaga Kesehatan Psikologi Klinis,3.0
+21,Maluku Utara,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+21,Maluku Utara,Jumlah Tenaga Keteknisan Medis,262.0
+21,Maluku Utara,Jumlah Tenaga Keterapian Fisik,56.0
+21,Maluku Utara,Jumlah Tenaga Medis,838.0
+21,Maluku Utara,Jumlah Tenaga Teknik Biomedika,812.0
+21,Maluku Utara,Tenaga Gizi,496.0
+21,Maluku Utara,Tenaga Kebidanan,4.0
+21,Maluku Utara,Tenaga Kefarmasian,772.0
+21,Maluku Utara,Tenaga Kesehatan Lingkungan,319.0
+21,Maluku Utara,Tenaga Kesehatan Masyarakat,2.0
+21,Maluku Utara,Tenaga Medis,4.0
+21,Maluku Utara,disease_burden_index,151.53166666666667
+21,Maluku Utara,facility_index,75.0
+21,Maluku Utara,insurance_coverage_index,0.15436
+21,Maluku Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0013
+21,Maluku Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2072
+21,Maluku Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.3697
+21,Maluku Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.1746
+21,Maluku Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.019
+21,Maluku Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+21,Maluku Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0118
+21,Maluku Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3594
+21,Maluku Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+21,Maluku Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0067
+21,Maluku Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+21,Maluku Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+21,Maluku Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059
+21,Maluku Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6151
+21,Maluku Utara,workforce_capacity_index,299.5942028985507
+22,Nusa Tenggara Barat,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,87.0
+22,Nusa Tenggara Barat,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,63.58
+22,Nusa Tenggara Barat,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.02
+22,Nusa Tenggara Barat,Jumlah Kasus Penyakit - Angka Penemuan TBC,60.0
+22,Nusa Tenggara Barat,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,674.0
+22,Nusa Tenggara Barat,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,5.29
+22,Nusa Tenggara Barat,Jumlah Puskesmas Non Rawat Inap,23.0
+22,Nusa Tenggara Barat,Jumlah Puskesmas Rawat Inap,154.0
+22,Nusa Tenggara Barat,Jumlah Rumah Sakit Khusus,7.0
+22,Nusa Tenggara Barat,Jumlah Rumah Sakit Umum,39.0
+22,Nusa Tenggara Barat,Jumlah Tenaga Kesehatan Psikologi Klinis,29.0
+22,Nusa Tenggara Barat,Jumlah Tenaga Kesehatan Tradisional,2.0
+22,Nusa Tenggara Barat,Jumlah Tenaga Keteknisan Medis,2.0
+22,Nusa Tenggara Barat,Jumlah Tenaga Keterapian Fisik,284.0
+22,Nusa Tenggara Barat,Jumlah Tenaga Medis,3.0
+22,Nusa Tenggara Barat,Jumlah Tenaga Teknik Biomedika,2.0
+22,Nusa Tenggara Barat,Tenaga Gizi,1.0
+22,Nusa Tenggara Barat,Tenaga Kebidanan,8.0
+22,Nusa Tenggara Barat,Tenaga Kefarmasian,3.0
+22,Nusa Tenggara Barat,Tenaga Kesehatan Lingkungan,622.0
+22,Nusa Tenggara Barat,Tenaga Kesehatan Masyarakat,1.0
+22,Nusa Tenggara Barat,Tenaga Medis,13.0
+22,Nusa Tenggara Barat,disease_burden_index,148.315
+22,Nusa Tenggara Barat,facility_index,88.5
+22,Nusa Tenggara Barat,insurance_coverage_index,0.16216
+22,Nusa Tenggara Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0016
+22,Nusa Tenggara Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.1404
+22,Nusa Tenggara Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.5546
+22,Nusa Tenggara Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.1031
+22,Nusa Tenggara Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0111
+22,Nusa Tenggara Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+22,Nusa Tenggara Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.015
+22,Nusa Tenggara Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2329
+22,Nusa Tenggara Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0023
+22,Nusa Tenggara Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+22,Nusa Tenggara Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.0017
+22,Nusa Tenggara Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+22,Nusa Tenggara Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0049
+22,Nusa Tenggara Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.7429000000000001
+22,Nusa Tenggara Barat,workforce_capacity_index,80.83333333333333
+23,Nusa Tenggara Timur,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,85.0
+23,Nusa Tenggara Timur,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,37.28
+23,Nusa Tenggara Timur,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.75
+23,Nusa Tenggara Timur,Jumlah Kasus Penyakit - Angka Penemuan TBC,62.0
+23,Nusa Tenggara Timur,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,1249.0
+23,Nusa Tenggara Timur,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,7.75
+23,Nusa Tenggara Timur,Jumlah Puskesmas Non Rawat Inap,255.0
+23,Nusa Tenggara Timur,Jumlah Puskesmas Rawat Inap,186.0
+23,Nusa Tenggara Timur,Jumlah Rumah Sakit Khusus,3.0
+23,Nusa Tenggara Timur,Jumlah Rumah Sakit Umum,64.0
+23,Nusa Tenggara Timur,Jumlah Tenaga Kesehatan Psikologi Klinis,11.0
+23,Nusa Tenggara Timur,Jumlah Tenaga Kesehatan Tradisional,1.0
+23,Nusa Tenggara Timur,Jumlah Tenaga Keteknisan Medis,2.0
+23,Nusa Tenggara Timur,Jumlah Tenaga Keterapian Fisik,191.0
+23,Nusa Tenggara Timur,Jumlah Tenaga Medis,2.0
+23,Nusa Tenggara Timur,Jumlah Tenaga Teknik Biomedika,2.0
+23,Nusa Tenggara Timur,Tenaga Gizi,2.0
+23,Nusa Tenggara Timur,Tenaga Kebidanan,12.0
+23,Nusa Tenggara Timur,Tenaga Kefarmasian,3.0
+23,Nusa Tenggara Timur,Tenaga Kesehatan Lingkungan,1.0
+23,Nusa Tenggara Timur,Tenaga Kesehatan Masyarakat,3.0
+23,Nusa Tenggara Timur,Tenaga Medis,16.0
+23,Nusa Tenggara Timur,disease_burden_index,240.29666666666665
+23,Nusa Tenggara Timur,facility_index,220.5
+23,Nusa Tenggara Timur,insurance_coverage_index,0.15686
+23,Nusa Tenggara Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0007
+23,Nusa Tenggara Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.1607
+23,Nusa Tenggara Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.5855
+23,Nusa Tenggara Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0341
+23,Nusa Tenggara Timur,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0033
+23,Nusa Tenggara Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+23,Nusa Tenggara Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0116
+23,Nusa Tenggara Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2161
+23,Nusa Tenggara Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0044
+23,Nusa Tenggara Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0040999999999999
+23,Nusa Tenggara Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.0009
+23,Nusa Tenggara Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.0037
+23,Nusa Tenggara Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0066
+23,Nusa Tenggara Timur,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.7525
+23,Nusa Tenggara Timur,workforce_capacity_index,20.5
+24,Papua,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,75.0
+24,Papua,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,2.14
+24,Papua,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,269.44
+24,Papua,Jumlah Kasus Penyakit - Angka Penemuan TBC,58.0
+24,Papua,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,2997.0
+24,Papua,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,12.69375
+24,Papua,Jumlah Puskesmas Non Rawat Inap,79.0
+24,Papua,Jumlah Puskesmas Rawat Inap,44.0
+24,Papua,Jumlah Rumah Sakit Khusus,1.0
+24,Papua,Jumlah Rumah Sakit Umum,18.0
+24,Papua,Jumlah Tenaga Kesehatan Psikologi Klinis,2.0
+24,Papua,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+24,Papua,Jumlah Tenaga Keteknisan Medis,159.0
+24,Papua,Jumlah Tenaga Keterapian Fisik,41.0
+24,Papua,Jumlah Tenaga Medis,928.0
+24,Papua,Jumlah Tenaga Teknik Biomedika,789.0
+24,Papua,Tenaga Gizi,333.0
+24,Papua,Tenaga Kebidanan,2.0
+24,Papua,Tenaga Kefarmasian,963.0
+24,Papua,Tenaga Kesehatan Lingkungan,240.0
+24,Papua,Tenaga Kesehatan Masyarakat,661.0
+24,Papua,Tenaga Medis,4.0
+24,Papua,disease_burden_index,569.045625
+24,Papua,facility_index,61.5
+24,Papua,insurance_coverage_index,0.16732
+24,Papua,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.002
+24,Papua,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2667
+24,Papua,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.4421
+24,Papua,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.1027999999999999
+24,Papua,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.023
+24,Papua,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+24,Papua,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0352
+24,Papua,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2808
+24,Papua,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+24,Papua,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0081999999999999
+24,Papua,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+24,Papua,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+24,Papua,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+24,Papua,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6664
+24,Papua,workforce_capacity_index,345.76086956521743
+25,Papua Barat,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,73.0
+25,Papua Barat,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,3.4
+25,Papua Barat,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,18.63
+25,Papua Barat,Jumlah Kasus Penyakit - Angka Penemuan TBC,88.0
+25,Papua Barat,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,1099.0
+25,Papua Barat,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,64.97
+25,Papua Barat,Jumlah Puskesmas Non Rawat Inap,55.0
+25,Papua Barat,Jumlah Puskesmas Rawat Inap,26.0
+25,Papua Barat,Jumlah Rumah Sakit Khusus,16.0625
+25,Papua Barat,Jumlah Rumah Sakit Umum,14.0
+25,Papua Barat,Jumlah Tenaga Kesehatan Psikologi Klinis,3.0
+25,Papua Barat,Jumlah Tenaga Kesehatan Tradisional,1.0
+25,Papua Barat,Jumlah Tenaga Keteknisan Medis,96.0
+25,Papua Barat,Jumlah Tenaga Keterapian Fisik,26.0
+25,Papua Barat,Jumlah Tenaga Medis,442.0
+25,Papua Barat,Jumlah Tenaga Teknik Biomedika,332.0
+25,Papua Barat,Tenaga Gizi,186.0
+25,Papua Barat,Tenaga Kebidanan,1.0
+25,Papua Barat,Tenaga Kefarmasian,451.0
+25,Papua Barat,Tenaga Kesehatan Lingkungan,90.0
+25,Papua Barat,Tenaga Kesehatan Masyarakat,339.0
+25,Papua Barat,Tenaga Medis,2.0
+25,Papua Barat,disease_burden_index,224.50000000000003
+25,Papua Barat,facility_index,40.5
+25,Papua Barat,insurance_coverage_index,0.1580316129032258
+25,Papua Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.003958064516129
+25,Papua Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.1707999999999999
+25,Papua Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.5445
+25,Papua Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0601
+25,Papua Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0108
+25,Papua Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+25,Papua Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0353
+25,Papua Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3298
+25,Papua Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+25,Papua Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+25,Papua Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+25,Papua Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+25,Papua Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+25,Papua Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6067
+25,Papua Barat,workforce_capacity_index,164.08333333333334
+26,Papua Barat Daya,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,67.0
+26,Papua Barat Daya,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,53.03083333333334
+26,Papua Barat Daya,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,11.53
+26,Papua Barat Daya,Jumlah Kasus Penyakit - Angka Penemuan TBC,82.0
+26,Papua Barat Daya,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,529.0
+26,Papua Barat Daya,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,86.89
+26,Papua Barat Daya,Jumlah Puskesmas Non Rawat Inap,101.0
+26,Papua Barat Daya,Jumlah Puskesmas Rawat Inap,18.0
+26,Papua Barat Daya,Jumlah Rumah Sakit Khusus,16.0625
+26,Papua Barat Daya,Jumlah Rumah Sakit Umum,12.0
+26,Papua Barat Daya,Jumlah Tenaga Kesehatan Psikologi Klinis,3.0
+26,Papua Barat Daya,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+26,Papua Barat Daya,Jumlah Tenaga Keteknisan Medis,81.0
+26,Papua Barat Daya,Jumlah Tenaga Keterapian Fisik,13.0
+26,Papua Barat Daya,Jumlah Tenaga Medis,428.0
+26,Papua Barat Daya,Jumlah Tenaga Teknik Biomedika,228.0
+26,Papua Barat Daya,Tenaga Gizi,238.0
+26,Papua Barat Daya,Tenaga Kebidanan,1.0
+26,Papua Barat Daya,Tenaga Kefarmasian,415.0
+26,Papua Barat Daya,Tenaga Kesehatan Lingkungan,144.0
+26,Papua Barat Daya,Tenaga Kesehatan Masyarakat,427.0
+26,Papua Barat Daya,Tenaga Medis,2.0
+26,Papua Barat Daya,disease_burden_index,138.24180555555554
+26,Papua Barat Daya,facility_index,59.5
+26,Papua Barat Daya,insurance_coverage_index,0.1757516129032258
+26,Papua Barat Daya,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.003958064516129
+26,Papua Barat Daya,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.1902
+26,Papua Barat Daya,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.6448
+26,Papua Barat Daya,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0064
+26,Papua Barat Daya,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0334
+26,Papua Barat Daya,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+26,Papua Barat Daya,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0126
+26,Papua Barat Daya,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3503
+26,Papua Barat Daya,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0144
+26,Papua Barat Daya,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+26,Papua Barat Daya,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+26,Papua Barat Daya,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+26,Papua Barat Daya,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+26,Papua Barat Daya,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.598
+26,Papua Barat Daya,workforce_capacity_index,167.2608695652174
+27,Papua Pegunungan,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,56.0
+27,Papua Pegunungan,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,53.03083333333334
+27,Papua Pegunungan,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,36.42
+27,Papua Pegunungan,Jumlah Kasus Penyakit - Angka Penemuan TBC,41.0
+27,Papua Pegunungan,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,551.0
+27,Papua Pegunungan,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,12.69375
+27,Papua Pegunungan,Jumlah Puskesmas Non Rawat Inap,160.0
+27,Papua Pegunungan,Jumlah Puskesmas Rawat Inap,23.0
+27,Papua Pegunungan,Jumlah Rumah Sakit Khusus,16.0625
+27,Papua Pegunungan,Jumlah Rumah Sakit Umum,8.0
+27,Papua Pegunungan,Jumlah Tenaga Kesehatan Psikologi Klinis,1.0
+27,Papua Pegunungan,Jumlah Tenaga Kesehatan Tradisional,64.0
+27,Papua Pegunungan,Jumlah Tenaga Keteknisan Medis,20.0
+27,Papua Pegunungan,Jumlah Tenaga Keterapian Fisik,5.0
+27,Papua Pegunungan,Jumlah Tenaga Medis,221.0
+27,Papua Pegunungan,Jumlah Tenaga Teknik Biomedika,144.0
+27,Papua Pegunungan,Tenaga Gizi,74.0
+27,Papua Pegunungan,Tenaga Kebidanan,613.0
+27,Papua Pegunungan,Tenaga Kefarmasian,202.0
+27,Papua Pegunungan,Tenaga Kesehatan Lingkungan,74.0
+27,Papua Pegunungan,Tenaga Kesehatan Masyarakat,316.0
+27,Papua Pegunungan,Tenaga Medis,1.0
+27,Papua Pegunungan,disease_burden_index,125.02409722222222
+27,Papua Pegunungan,facility_index,91.5
+27,Papua Pegunungan,insurance_coverage_index,0.2233121534437663
+27,Papua Pegunungan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.003958064516129
+27,Papua Pegunungan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.1114
+27,Papua Pegunungan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.4907
+27,Papua Pegunungan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.4866
+27,Papua Pegunungan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0239027027027027
+27,Papua Pegunungan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+27,Papua Pegunungan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0243
+27,Papua Pegunungan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.1841
+27,Papua Pegunungan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+27,Papua Pegunungan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0343
+27,Papua Pegunungan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.0274
+27,Papua Pegunungan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.0134
+27,Papua Pegunungan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+27,Papua Pegunungan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6940999999999999
+27,Papua Pegunungan,workforce_capacity_index,144.58333333333334
+28,Papua Selatan,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,80.0
+28,Papua Selatan,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,25.65
+28,Papua Selatan,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,146.93
+28,Papua Selatan,Jumlah Kasus Penyakit - Angka Penemuan TBC,81.0
+28,Papua Selatan,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,295.0
+28,Papua Selatan,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,26.54
+28,Papua Selatan,Jumlah Puskesmas Non Rawat Inap,26.0
+28,Papua Selatan,Jumlah Puskesmas Rawat Inap,59.0
+28,Papua Selatan,Jumlah Rumah Sakit Khusus,16.0625
+28,Papua Selatan,Jumlah Rumah Sakit Umum,8.0
+28,Papua Selatan,Jumlah Tenaga Kesehatan Psikologi Klinis,2.0
+28,Papua Selatan,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+28,Papua Selatan,Jumlah Tenaga Keteknisan Medis,67.0
+28,Papua Selatan,Jumlah Tenaga Keterapian Fisik,17.0
+28,Papua Selatan,Jumlah Tenaga Medis,324.0
+28,Papua Selatan,Jumlah Tenaga Teknik Biomedika,231.0
+28,Papua Selatan,Tenaga Gizi,125.0
+28,Papua Selatan,Tenaga Kebidanan,992.0
+28,Papua Selatan,Tenaga Kefarmasian,272.0
+28,Papua Selatan,Tenaga Kesehatan Lingkungan,90.0
+28,Papua Selatan,Tenaga Kesehatan Masyarakat,272.0
+28,Papua Selatan,Tenaga Medis,2.0
+28,Papua Selatan,disease_burden_index,109.18666666666668
+28,Papua Selatan,facility_index,42.5
+28,Papua Selatan,insurance_coverage_index,0.1881716129032258
+28,Papua Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.003958064516129
+28,Papua Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.1796
+28,Papua Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.5159
+28,Papua Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.2294
+28,Papua Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.012
+28,Papua Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+28,Papua Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0159705882352941
+28,Papua Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.4443
+28,Papua Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+28,Papua Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+28,Papua Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+28,Papua Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.0232
+28,Papua Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0059130434782608
+28,Papua Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.4999
+28,Papua Selatan,workforce_capacity_index,201.76086956521735
+29,Papua Tengah,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,77.0
+29,Papua Tengah,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,9.34
+29,Papua Tengah,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,133.67
+29,Papua Tengah,Jumlah Kasus Penyakit - Angka Penemuan TBC,72.0
+29,Papua Tengah,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,2057.0
+29,Papua Tengah,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,9.88
+29,Papua Tengah,Jumlah Puskesmas Non Rawat Inap,98.0
+29,Papua Tengah,Jumlah Puskesmas Rawat Inap,29.0
+29,Papua Tengah,Jumlah Rumah Sakit Khusus,16.0625
+29,Papua Tengah,Jumlah Rumah Sakit Umum,14.0
+29,Papua Tengah,Jumlah Tenaga Kesehatan Psikologi Klinis,4.0
+29,Papua Tengah,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+29,Papua Tengah,Jumlah Tenaga Keteknisan Medis,97.0
+29,Papua Tengah,Jumlah Tenaga Keterapian Fisik,21.0
+29,Papua Tengah,Jumlah Tenaga Medis,523.0
+29,Papua Tengah,Jumlah Tenaga Teknik Biomedika,404.0
+29,Papua Tengah,Tenaga Gizi,150.0
+29,Papua Tengah,Tenaga Kebidanan,1.0
+29,Papua Tengah,Tenaga Kefarmasian,501.0
+29,Papua Tengah,Tenaga Kesehatan Lingkungan,196.0
+29,Papua Tengah,Tenaga Kesehatan Masyarakat,492.0
+29,Papua Tengah,Tenaga Medis,3.0
+29,Papua Tengah,disease_burden_index,393.14833333333337
+29,Papua Tengah,facility_index,63.5
+29,Papua Tengah,insurance_coverage_index,0.15616
+29,Papua Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0026
+29,Papua Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.0909
+29,Papua Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.3103
+29,Papua Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.3375999999999999
+29,Papua Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0394
+29,Papua Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+29,Papua Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0672
+29,Papua Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.4232
+29,Papua Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+29,Papua Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+29,Papua Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+29,Papua Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+29,Papua Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0175
+29,Papua Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.4855
+29,Papua Tengah,workforce_capacity_index,201.59420289855072
+30,Riau,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,86.0
+30,Riau,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,54.07
+30,Riau,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.44
+30,Riau,Jumlah Kasus Penyakit - Angka Penemuan TBC,72.0
+30,Riau,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,1031.0
+30,Riau,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,1.69
+30,Riau,Jumlah Puskesmas Non Rawat Inap,122.0
+30,Riau,Jumlah Puskesmas Rawat Inap,120.0
+30,Riau,Jumlah Rumah Sakit Khusus,14.0
+30,Riau,Jumlah Rumah Sakit Umum,67.0
+30,Riau,Jumlah Tenaga Kesehatan Psikologi Klinis,60.0
+30,Riau,Jumlah Tenaga Kesehatan Tradisional,2.0
+30,Riau,Jumlah Tenaga Keteknisan Medis,1.0
+30,Riau,Jumlah Tenaga Keterapian Fisik,466.0
+30,Riau,Jumlah Tenaga Medis,6.0
+30,Riau,Jumlah Tenaga Teknik Biomedika,2.0
+30,Riau,Tenaga Gizi,770.0
+30,Riau,Tenaga Kebidanan,10.0
+30,Riau,Tenaga Kefarmasian,4.0
+30,Riau,Tenaga Kesehatan Lingkungan,487.0
+30,Riau,Tenaga Kesehatan Masyarakat,2.0
+30,Riau,Tenaga Medis,13.0
+30,Riau,disease_burden_index,207.53333333333333
+30,Riau,facility_index,121.0
+30,Riau,insurance_coverage_index,0.1587
+30,Riau,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.004
+30,Riau,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2541
+30,Riau,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.4508
+30,Riau,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0436
+30,Riau,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0409999999999999
+30,Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+30,Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0113999999999999
+30,Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3825
+30,Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0029
+30,Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+30,Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.0019
+30,Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+30,Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0023
+30,Riau,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.5979
+30,Riau,workforce_capacity_index,151.91666666666666
+31,Sulawesi Barat,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,87.0
+31,Sulawesi Barat,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,77.62
+31,Sulawesi Barat,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.07
+31,Sulawesi Barat,Jumlah Kasus Penyakit - Angka Penemuan TBC,80.0
+31,Sulawesi Barat,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,130.0
+31,Sulawesi Barat,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,13.26
+31,Sulawesi Barat,Jumlah Puskesmas Non Rawat Inap,39.0
+31,Sulawesi Barat,Jumlah Puskesmas Rawat Inap,59.0
+31,Sulawesi Barat,Jumlah Rumah Sakit Khusus,2.0
+31,Sulawesi Barat,Jumlah Rumah Sakit Umum,14.0
+31,Sulawesi Barat,Jumlah Tenaga Kesehatan Psikologi Klinis,1.0
+31,Sulawesi Barat,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+31,Sulawesi Barat,Jumlah Tenaga Keteknisan Medis,182.0
+31,Sulawesi Barat,Jumlah Tenaga Keterapian Fisik,57.0
+31,Sulawesi Barat,Jumlah Tenaga Medis,665.0
+31,Sulawesi Barat,Jumlah Tenaga Teknik Biomedika,353.0
+31,Sulawesi Barat,Tenaga Gizi,340.0
+31,Sulawesi Barat,Tenaga Kebidanan,4.0
+31,Sulawesi Barat,Tenaga Kefarmasian,692.0
+31,Sulawesi Barat,Tenaga Kesehatan Lingkungan,278.0
+31,Sulawesi Barat,Tenaga Kesehatan Masyarakat,947.0
+31,Sulawesi Barat,Tenaga Medis,4.0
+31,Sulawesi Barat,disease_burden_index,64.65833333333333
+31,Sulawesi Barat,facility_index,49.0
+31,Sulawesi Barat,insurance_coverage_index,0.2162116129032258
+31,Sulawesi Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.003958064516129
+31,Sulawesi Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2002
+31,Sulawesi Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.6611
+31,Sulawesi Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.2125
+31,Sulawesi Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0033
+31,Sulawesi Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+31,Sulawesi Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0165
+31,Sulawesi Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3614
+31,Sulawesi Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+31,Sulawesi Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+31,Sulawesi Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+31,Sulawesi Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+31,Sulawesi Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0070999999999999
+31,Sulawesi Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6083
+31,Sulawesi Barat,workforce_capacity_index,295.8442028985507
+32,Sulawesi Selatan,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,84.0
+32,Sulawesi Selatan,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,45.81
+32,Sulawesi Selatan,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.21
+32,Sulawesi Selatan,Jumlah Kasus Penyakit - Angka Penemuan TBC,65.0
+32,Sulawesi Selatan,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,1954.0
+32,Sulawesi Selatan,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,8.27
+32,Sulawesi Selatan,Jumlah Puskesmas Non Rawat Inap,168.0
+32,Sulawesi Selatan,Jumlah Puskesmas Rawat Inap,306.0
+32,Sulawesi Selatan,Jumlah Rumah Sakit Khusus,24.0
+32,Sulawesi Selatan,Jumlah Rumah Sakit Umum,100.0
+32,Sulawesi Selatan,Jumlah Tenaga Kesehatan Psikologi Klinis,21.0
+32,Sulawesi Selatan,Jumlah Tenaga Kesehatan Tradisional,5.0
+32,Sulawesi Selatan,Jumlah Tenaga Keteknisan Medis,3.0
+32,Sulawesi Selatan,Jumlah Tenaga Keterapian Fisik,615.0
+32,Sulawesi Selatan,Jumlah Tenaga Medis,7.0
+32,Sulawesi Selatan,Jumlah Tenaga Teknik Biomedika,4.0
+32,Sulawesi Selatan,Tenaga Gizi,2.0
+32,Sulawesi Selatan,Tenaga Kebidanan,20.0
+32,Sulawesi Selatan,Tenaga Kefarmasian,6.0
+32,Sulawesi Selatan,Tenaga Kesehatan Lingkungan,1.0
+32,Sulawesi Selatan,Tenaga Kesehatan Masyarakat,5.0
+32,Sulawesi Selatan,Tenaga Medis,27.0
+32,Sulawesi Selatan,disease_burden_index,359.54833333333335
+32,Sulawesi Selatan,facility_index,237.0
+32,Sulawesi Selatan,insurance_coverage_index,0.17708
+32,Sulawesi Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0028
+32,Sulawesi Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2492
+32,Sulawesi Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.6113000000000001
+32,Sulawesi Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0052
+32,Sulawesi Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0169
+32,Sulawesi Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+32,Sulawesi Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0081999999999999
+32,Sulawesi Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3449
+32,Sulawesi Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0058
+32,Sulawesi Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0009
+32,Sulawesi Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.0007
+32,Sulawesi Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.0018
+32,Sulawesi Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0034999999999999
+32,Sulawesi Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6341
+32,Sulawesi Selatan,workforce_capacity_index,59.66666666666666
+33,Sulawesi Tengah,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,80.0
+33,Sulawesi Tengah,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,35.61
+33,Sulawesi Tengah,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.41
+33,Sulawesi Tengah,Jumlah Kasus Penyakit - Angka Penemuan TBC,84.0
+33,Sulawesi Tengah,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,732.0
+33,Sulawesi Tengah,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,8.65
+33,Sulawesi Tengah,Jumlah Puskesmas Non Rawat Inap,94.0
+33,Sulawesi Tengah,Jumlah Puskesmas Rawat Inap,125.0
+33,Sulawesi Tengah,Jumlah Rumah Sakit Khusus,4.0
+33,Sulawesi Tengah,Jumlah Rumah Sakit Umum,37.0
+33,Sulawesi Tengah,Jumlah Tenaga Kesehatan Psikologi Klinis,32.0
+33,Sulawesi Tengah,Jumlah Tenaga Kesehatan Tradisional,2.0
+33,Sulawesi Tengah,Jumlah Tenaga Keteknisan Medis,570.0
+33,Sulawesi Tengah,Jumlah Tenaga Keterapian Fisik,135.0
+33,Sulawesi Tengah,Jumlah Tenaga Medis,2.0
+33,Sulawesi Tengah,Jumlah Tenaga Teknik Biomedika,1.0
+33,Sulawesi Tengah,Tenaga Gizi,688.0
+33,Sulawesi Tengah,Tenaga Kebidanan,7.0
+33,Sulawesi Tengah,Tenaga Kefarmasian,2.0
+33,Sulawesi Tengah,Tenaga Kesehatan Lingkungan,714.0
+33,Sulawesi Tengah,Tenaga Kesehatan Masyarakat,3.0
+33,Sulawesi Tengah,Tenaga Medis,9.0
+33,Sulawesi Tengah,disease_burden_index,156.77833333333334
+33,Sulawesi Tengah,facility_index,109.5
+33,Sulawesi Tengah,insurance_coverage_index,0.1656399999999999
+33,Sulawesi Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0005
+33,Sulawesi Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.1966
+33,Sulawesi Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.595
+33,Sulawesi Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0229
+33,Sulawesi Tengah,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0132
+33,Sulawesi Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+33,Sulawesi Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0104
+33,Sulawesi Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3567
+33,Sulawesi Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+33,Sulawesi Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0018
+33,Sulawesi Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+33,Sulawesi Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.0029
+33,Sulawesi Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0051
+33,Sulawesi Tengah,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6209
+33,Sulawesi Tengah,workforce_capacity_index,180.41666666666663
+34,Sulawesi Tenggara,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,81.0
+34,Sulawesi Tenggara,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,41.03
+34,Sulawesi Tenggara,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.23
+34,Sulawesi Tenggara,Jumlah Kasus Penyakit - Angka Penemuan TBC,72.0
+34,Sulawesi Tenggara,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,600.0
+34,Sulawesi Tenggara,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,6.69
+34,Sulawesi Tenggara,Jumlah Puskesmas Non Rawat Inap,199.0
+34,Sulawesi Tenggara,Jumlah Puskesmas Rawat Inap,109.0
+34,Sulawesi Tenggara,Jumlah Rumah Sakit Khusus,4.0
+34,Sulawesi Tenggara,Jumlah Rumah Sakit Umum,39.0
+34,Sulawesi Tenggara,Jumlah Tenaga Kesehatan Psikologi Klinis,16.0
+34,Sulawesi Tenggara,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+34,Sulawesi Tenggara,Jumlah Tenaga Keteknisan Medis,1.0
+34,Sulawesi Tenggara,Jumlah Tenaga Keterapian Fisik,129.0
+34,Sulawesi Tenggara,Jumlah Tenaga Medis,2.0
+34,Sulawesi Tenggara,Jumlah Tenaga Teknik Biomedika,2.0
+34,Sulawesi Tenggara,Tenaga Gizi,1.0
+34,Sulawesi Tenggara,Tenaga Kebidanan,8.0
+34,Sulawesi Tenggara,Tenaga Kefarmasian,3.0
+34,Sulawesi Tenggara,Tenaga Kesehatan Lingkungan,795.0
+34,Sulawesi Tenggara,Tenaga Kesehatan Masyarakat,4.0
+34,Sulawesi Tenggara,Tenaga Medis,10.0
+34,Sulawesi Tenggara,disease_burden_index,133.49166666666667
+34,Sulawesi Tenggara,facility_index,154.0
+34,Sulawesi Tenggara,insurance_coverage_index,0.17216
+34,Sulawesi Tenggara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0005
+34,Sulawesi Tenggara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2242
+34,Sulawesi Tenggara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.59
+34,Sulawesi Tenggara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0288
+34,Sulawesi Tenggara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0173
+34,Sulawesi Tenggara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+34,Sulawesi Tenggara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0177
+34,Sulawesi Tenggara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2506
+34,Sulawesi Tenggara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+34,Sulawesi Tenggara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+34,Sulawesi Tenggara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+34,Sulawesi Tenggara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+34,Sulawesi Tenggara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0028
+34,Sulawesi Tenggara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.726
+34,Sulawesi Tenggara,workforce_capacity_index,83.17753623188406
+35,Sulawesi Utara,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,82.0
+35,Sulawesi Utara,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,57.95
+35,Sulawesi Utara,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.37
+35,Sulawesi Utara,Jumlah Kasus Penyakit - Angka Penemuan TBC,67.0
+35,Sulawesi Utara,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,812.0
+35,Sulawesi Utara,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,15.11
+35,Sulawesi Utara,Jumlah Puskesmas Non Rawat Inap,104.0
+35,Sulawesi Utara,Jumlah Puskesmas Rawat Inap,99.0
+35,Sulawesi Utara,Jumlah Rumah Sakit Khusus,8.0
+35,Sulawesi Utara,Jumlah Rumah Sakit Umum,52.0
+35,Sulawesi Utara,Jumlah Tenaga Kesehatan Psikologi Klinis,17.0
+35,Sulawesi Utara,Jumlah Tenaga Kesehatan Tradisional,1.0
+35,Sulawesi Utara,Jumlah Tenaga Keteknisan Medis,643.0
+35,Sulawesi Utara,Jumlah Tenaga Keterapian Fisik,217.0
+35,Sulawesi Utara,Jumlah Tenaga Medis,3.0
+35,Sulawesi Utara,Jumlah Tenaga Teknik Biomedika,904.0
+35,Sulawesi Utara,Tenaga Gizi,720.0
+35,Sulawesi Utara,Tenaga Kebidanan,3.0
+35,Sulawesi Utara,Tenaga Kefarmasian,2.0
+35,Sulawesi Utara,Tenaga Kesehatan Lingkungan,552.0
+35,Sulawesi Utara,Tenaga Kesehatan Masyarakat,1.0
+35,Sulawesi Utara,Tenaga Medis,10.0
+35,Sulawesi Utara,disease_burden_index,172.405
+35,Sulawesi Utara,facility_index,101.5
+35,Sulawesi Utara,insurance_coverage_index,0.17226
+35,Sulawesi Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0016
+35,Sulawesi Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.3268999999999999
+35,Sulawesi Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.5047
+35,Sulawesi Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0032
+35,Sulawesi Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0249
+35,Sulawesi Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+35,Sulawesi Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0098999999999999
+35,Sulawesi Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2534
+35,Sulawesi Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.005995238095238
+35,Sulawesi Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+35,Sulawesi Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.004025
+35,Sulawesi Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+35,Sulawesi Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0028
+35,Sulawesi Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.7265999999999999
+35,Sulawesi Utara,workforce_capacity_index,256.0833333333333
+36,Sumatera Barat,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,86.0
+36,Sumatera Barat,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,41.63
+36,Sumatera Barat,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.02
+36,Sumatera Barat,Jumlah Kasus Penyakit - Angka Penemuan TBC,62.0
+36,Sumatera Barat,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,578.0
+36,Sumatera Barat,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,1.11
+36,Sumatera Barat,Jumlah Puskesmas Non Rawat Inap,172.0
+36,Sumatera Barat,Jumlah Puskesmas Rawat Inap,108.0
+36,Sumatera Barat,Jumlah Rumah Sakit Khusus,30.0
+36,Sumatera Barat,Jumlah Rumah Sakit Umum,53.0
+36,Sumatera Barat,Jumlah Tenaga Kesehatan Psikologi Klinis,31.0
+36,Sumatera Barat,Jumlah Tenaga Kesehatan Tradisional,2.0
+36,Sumatera Barat,Jumlah Tenaga Keteknisan Medis,2.0
+36,Sumatera Barat,Jumlah Tenaga Keterapian Fisik,380.0
+36,Sumatera Barat,Jumlah Tenaga Medis,5.0
+36,Sumatera Barat,Jumlah Tenaga Teknik Biomedika,2.0
+36,Sumatera Barat,Tenaga Gizi,1.0
+36,Sumatera Barat,Tenaga Kebidanan,9.0
+36,Sumatera Barat,Tenaga Kefarmasian,3.0
+36,Sumatera Barat,Tenaga Kesehatan Lingkungan,641.0
+36,Sumatera Barat,Tenaga Kesehatan Masyarakat,2.0
+36,Sumatera Barat,Tenaga Medis,12.0
+36,Sumatera Barat,disease_burden_index,128.1266666666667
+36,Sumatera Barat,facility_index,140.0
+36,Sumatera Barat,insurance_coverage_index,0.1698
+36,Sumatera Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0017
+36,Sumatera Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2673
+36,Sumatera Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.4839
+36,Sumatera Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0842
+36,Sumatera Barat,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0118999999999999
+36,Sumatera Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+36,Sumatera Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0134
+36,Sumatera Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3533
+36,Sumatera Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.004
+36,Sumatera Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0021
+36,Sumatera Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.0012
+36,Sumatera Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+36,Sumatera Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0077
+36,Sumatera Barat,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6183
+36,Sumatera Barat,workforce_capacity_index,90.83333333333331
+37,Sumatera Selatan,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,89.0
+37,Sumatera Selatan,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,45.57
+37,Sumatera Selatan,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,17.34722222222222
+37,Sumatera Selatan,Jumlah Kasus Penyakit - Angka Penemuan TBC,63.0
+37,Sumatera Selatan,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,927.0
+37,Sumatera Selatan,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,3.0
+37,Sumatera Selatan,Jumlah Puskesmas Non Rawat Inap,244.0
+37,Sumatera Selatan,Jumlah Puskesmas Rawat Inap,110.0
+37,Sumatera Selatan,Jumlah Rumah Sakit Khusus,17.0
+37,Sumatera Selatan,Jumlah Rumah Sakit Umum,72.0
+37,Sumatera Selatan,Jumlah Tenaga Kesehatan Psikologi Klinis,49.0
+37,Sumatera Selatan,Jumlah Tenaga Kesehatan Tradisional,27.130434782608692
+37,Sumatera Selatan,Jumlah Tenaga Keteknisan Medis,2.0
+37,Sumatera Selatan,Jumlah Tenaga Keterapian Fisik,418.0
+37,Sumatera Selatan,Jumlah Tenaga Medis,6.0
+37,Sumatera Selatan,Jumlah Tenaga Teknik Biomedika,3.0
+37,Sumatera Selatan,Tenaga Gizi,1.0
+37,Sumatera Selatan,Tenaga Kebidanan,15.0
+37,Sumatera Selatan,Tenaga Kefarmasian,4.0
+37,Sumatera Selatan,Tenaga Kesehatan Lingkungan,1.0
+37,Sumatera Selatan,Tenaga Kesehatan Masyarakat,3.0
+37,Sumatera Selatan,Tenaga Medis,17.0
+37,Sumatera Selatan,disease_burden_index,190.819537037037
+37,Sumatera Selatan,facility_index,177.0
+37,Sumatera Selatan,insurance_coverage_index,0.15402
+37,Sumatera Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0042
+37,Sumatera Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.1921
+37,Sumatera Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.5017
+37,Sumatera Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0529
+37,Sumatera Selatan,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0192
+37,Sumatera Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+37,Sumatera Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0157
+37,Sumatera Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.2836
+37,Sumatera Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0033
+37,Sumatera Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0050125
+37,Sumatera Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.0021
+37,Sumatera Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.006325
+37,Sumatera Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0025
+37,Sumatera Selatan,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.688
+37,Sumatera Selatan,workforce_capacity_index,45.5108695652174
+38,Sumatera Utara,Jumlah Kasus Penyakit - Angka Keberhasilan Pengobatan TBC,79.0
+38,Sumatera Utara,Jumlah Kasus Penyakit - Angka Kesakitan DBD per 100.000 Penduduk,27.91
+38,Sumatera Utara,Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk,0.37
+38,Sumatera Utara,Jumlah Kasus Penyakit - Angka Penemuan TBC,74.0
+38,Sumatera Utara,Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru,3041.0
+38,Sumatera Utara,Jumlah Kasus Penyakit - Penemuan Kasus Baru Kusta per 100.000 Penduduk,12.69375
+38,Sumatera Utara,Jumlah Puskesmas Non Rawat Inap,441.0
+38,Sumatera Utara,Jumlah Puskesmas Rawat Inap,178.0
+38,Sumatera Utara,Jumlah Rumah Sakit Khusus,23.0
+38,Sumatera Utara,Jumlah Rumah Sakit Umum,185.0
+38,Sumatera Utara,Jumlah Tenaga Kesehatan Psikologi Klinis,45.0
+38,Sumatera Utara,Jumlah Tenaga Kesehatan Tradisional,9.0
+38,Sumatera Utara,Jumlah Tenaga Keteknisan Medis,2.0
+38,Sumatera Utara,Jumlah Tenaga Keterapian Fisik,516.0
+38,Sumatera Utara,Jumlah Tenaga Medis,12.0
+38,Sumatera Utara,Jumlah Tenaga Teknik Biomedika,4.0
+38,Sumatera Utara,Tenaga Gizi,2.0
+38,Sumatera Utara,Tenaga Kebidanan,25.0
+38,Sumatera Utara,Tenaga Kefarmasian,5.0
+38,Sumatera Utara,Tenaga Kesehatan Lingkungan,986.0
+38,Sumatera Utara,Tenaga Kesehatan Masyarakat,4.0
+38,Sumatera Utara,Tenaga Medis,24.0
+38,Sumatera Utara,disease_burden_index,539.1622916666666
+38,Sumatera Utara,facility_index,309.5
+38,Sumatera Utara,insurance_coverage_index,0.14454
+38,Sumatera Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio,0.0021
+38,Sumatera Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio,0.2655
+38,Sumatera Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio,0.4135999999999999
+38,Sumatera Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_jamkesda_ratio,0.0152
+38,Sumatera Utara,penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_perusahaan/kantor_ratio,0.0263
+38,Sumatera Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_jumlah_ratio,1.0
+38,Sumatera Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_lainnya_ratio,0.0121999999999999
+38,Sumatera Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio,0.3550999999999999
+38,Sumatera Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_merasa_tidak_perlu_ratio,0.0045
+38,Sumatera Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio,0.0012
+38,Sumatera Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_sarana_transportasi_ratio,0.0023
+38,Sumatera Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_yang_mendampingi_ratio,0.0011
+38,Sumatera Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio,0.0097
+38,Sumatera Utara,penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_waktu_tunggu_pelayanan_lama_ratio,0.6141
+38,Sumatera Utara,workforce_capacity_index,136.16666666666666

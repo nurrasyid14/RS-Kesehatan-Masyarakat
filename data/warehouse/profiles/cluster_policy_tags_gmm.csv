@@ -1,0 +1,5 @@
+cluster_id,policy_tags,sdg_targets,priority_count
+0,['TAMBAH_FASILITAS'],['3.b'],1
+1,['DISTRIBUSI_TENAGA'],['3.c'],1
+2,"['DISTRIBUSI_TENAGA', 'PENGENDALIAN_PENYAKIT', 'PERLUASAN_JKN']","['3.3', '3.8', '3.c']",3
+3,['PERLUASAN_JKN'],['3.8'],1

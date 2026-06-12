@@ -1,0 +1,39 @@
+Provinsi,cluster_0,cluster_1,cluster_2,cluster_3,hard_label
+Aceh,0.0,1.0,0.0,0.0,1
+Bali,1.0,0.0,0.0,0.0,0
+Banten,0.0331,0.0,0.0,0.9669,3
+Bengkulu,0.1387,0.0,0.0,0.8613,3
+DI Yogyakarta,1.0,0.0,0.0,0.0,0
+DKI Jakarta,1.0,0.0,0.0,0.0,0
+Gorontalo,1.0,0.0,0.0,0.0,0
+Jambi,0.0031,0.0,0.0,0.9969,3
+Jawa Barat,0.0,0.0,1.0,0.0,2
+Jawa Tengah,0.0,0.0,1.0,0.0,2
+Jawa Timur,0.0,0.0,1.0,0.0,2
+Kalimantan Barat,0.0003,0.0011,0.0,0.9986,3
+Kalimantan Selatan,0.0001,0.0815,0.0,0.9184,3
+Kalimantan Tengah,0.0072,0.0,0.0,0.9928,3
+Kalimantan Timur,0.9976,0.0,0.0,0.0024,0
+Kalimantan Utara,1.0,0.0,0.0,0.0,0
+Kepulauan Bangka Belitung,1.0,0.0,0.0,0.0,0
+Kepulauan Riau,1.0,0.0,0.0,0.0,0
+Lampung,0.0,0.1108,0.0,0.8891,3
+Maluku,0.0087,0.0,0.0,0.9913,3
+Maluku Utara,0.9855,0.0,0.0,0.0145,0
+Nusa Tenggara Barat,0.0073,0.0,0.0,0.9927,3
+Nusa Tenggara Timur,0.0,1.0,0.0,0.0,1
+Papua,1.0,0.0,0.0,0.0,0
+Papua Barat,0.9999,0.0,0.0,0.0001,0
+Papua Barat Daya,0.9993,0.0,0.0,0.0007,0
+Papua Pegunungan,1.0,0.0,0.0,0.0,0
+Papua Selatan,1.0,0.0,0.0,0.0,0
+Papua Tengah,1.0,0.0,0.0,0.0,0
+Riau,0.0007,0.0002,0.0,0.9991,3
+Sulawesi Barat,1.0,0.0,0.0,0.0,0
+Sulawesi Selatan,0.0,1.0,0.0,0.0,1
+Sulawesi Tengah,0.0425,0.0003,0.0,0.9572,3
+Sulawesi Tenggara,0.0,0.9966,0.0,0.0034,1
+Sulawesi Utara,0.9923,0.0,0.0,0.0077,0
+Sumatera Barat,0.0,0.9152,0.0,0.0848,1
+Sumatera Selatan,0.0,0.9999,0.0,0.0001,1
+Sumatera Utara,0.0,1.0,0.0,0.0,1

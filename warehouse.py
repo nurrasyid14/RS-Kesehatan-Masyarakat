@@ -74,7 +74,7 @@ def _save_tables(
         filename = filenames[key]
         path = os.path.join(output_dir, filename)
         df.to_csv(path, index=False)
-        print(f"    saved → {path}")
+        print(f"    saved -> {path}")
 
 
 # ---------------------------------------------------------
@@ -119,6 +119,12 @@ def run_warehousing(
         }
     '''
 
+    # Intercept and rename workforce_index to workforce_capacity_index dynamically
+    if "workforce_index" in engineered_df.columns:
+        engineered_df = engineered_df.rename(columns={"workforce_index": "workforce_capacity_index"})
+    if "workforce_index" in scaled_df.columns:
+        scaled_df = scaled_df.rename(columns={"workforce_index": "workforce_capacity_index"})
+
     dim_dir  = os.path.join(warehouse_dir, "dimensions")
     fact_dir = os.path.join(warehouse_dir, "facts")
 
@@ -145,7 +151,35 @@ def run_warehousing(
 
     if verbose:
         print("\n" + "=" * 56)
-        print(f"Warehouse ready → {os.path.abspath(warehouse_dir)}")
+        print(f"Warehouse ready -> {os.path.abspath(warehouse_dir)}")
         print("=" * 56 + "\n")
 
     return {"dimensions": dimensions, "facts": facts}
+
+
+if __name__ == "__main__":
+    import sys
+    # Load engineered and scaled data from local paths and run warehousing pipeline
+    try:
+        engineered_data_path = "data/engineered_data.csv"
+        scaled_data_path = "data/scaled_data.csv"
+        
+        if not os.path.exists(engineered_data_path) or not os.path.exists(scaled_data_path):
+            print(f"[ERROR] Required input files not found: {engineered_data_path} or {scaled_data_path}")
+            print("Please run preprocess.py first.")
+            sys.exit(1)
+            
+        print("[Warehouse CLI] Loading data and running warehousing pipeline...")
+        eng_df = pd.read_csv(engineered_data_path)
+        scaled_df = pd.read_csv(scaled_data_path)
+        
+        if "workforce_index" in eng_df.columns:
+            eng_df = eng_df.rename(columns={"workforce_index": "workforce_capacity_index"})
+        if "workforce_index" in scaled_df.columns:
+            scaled_df = scaled_df.rename(columns={"workforce_index": "workforce_capacity_index"})
+        
+        run_warehousing(eng_df, scaled_df)
+        print("[Warehouse CLI] Finished successfully.")
+    except Exception as e:
+        print(f"[ERROR] Warehouse CLI failed: {e}")
+        sys.exit(1)

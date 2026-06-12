@@ -37,7 +37,7 @@ from src.prep.normalizer         import normalize
 
 def _save(df: pd.DataFrame, path: str) -> None:
     df.to_csv(path, index=False)
-    print(f"  saved → {path}")
+    print(f"  saved -> {path}")
 
 
 # ---------------------------------------------------------

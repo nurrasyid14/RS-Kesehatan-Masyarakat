@@ -1,0 +1,5 @@
+cluster_id,facility_index,workforce_capacity_index,disease_burden_index,insurance_coverage_index,n_provinces
+0,57.5,212.5205,234.7858,0.1827,17
+1,203.0,70.0047,239.9317,0.1678,7
+2,493.8333,43.0278,1477.0097,0.1518,3
+3,115.4545,170.5257,176.5951,0.1536,11

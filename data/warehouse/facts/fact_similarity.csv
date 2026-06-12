@@ -1,0 +1,704 @@
+province_a,province_b,similarity_score
+Kalimantan Utara,Sulawesi Barat,0.99961
+Papua Selatan,Sulawesi Barat,0.999492
+DI Yogyakarta,Papua Barat Daya,0.999438
+Kalimantan Utara,Papua Selatan,0.998925
+Jambi,Kalimantan Tengah,0.998162
+Kepulauan Bangka Belitung,Papua Selatan,0.997927
+Kepulauan Bangka Belitung,Sulawesi Barat,0.997894
+Sulawesi Tenggara,Sumatera Barat,0.997432
+Kalimantan Utara,Kepulauan Bangka Belitung,0.997375
+Papua Barat Daya,Papua Selatan,0.997234
+DI Yogyakarta,Papua Selatan,0.996624
+Lampung,Riau,0.996583
+Papua,Papua Tengah,0.996161
+DI Yogyakarta,Kalimantan Timur,0.995385
+Papua Barat Daya,Sulawesi Barat,0.995287
+Gorontalo,Kepulauan Riau,0.994731
+Kalimantan Timur,Papua Barat Daya,0.994481
+Jawa Barat,Jawa Tengah,0.994181
+DI Yogyakarta,Sulawesi Barat,0.993831
+Kalimantan Utara,Papua Barat Daya,0.993292
+Riau,Sulawesi Tengah,0.992397
+Bengkulu,Sulawesi Utara,0.992363
+DI Yogyakarta,Kalimantan Utara,0.992194
+Sulawesi Tengah,Sulawesi Utara,0.992136
+Kepulauan Bangka Belitung,Papua Barat Daya,0.992028
+DI Yogyakarta,Kepulauan Bangka Belitung,0.991557
+Jawa Barat,Jawa Timur,0.990696
+Nusa Tenggara Barat,Sumatera Barat,0.990434
+Kepulauan Riau,Papua Barat,0.989602
+DI Yogyakarta,Kepulauan Riau,0.98907
+Gorontalo,Sulawesi Utara,0.988906
+Papua Barat,Sulawesi Utara,0.988754
+Kepulauan Riau,Papua Barat Daya,0.988702
+Kalimantan Tengah,Maluku Utara,0.987295
+Banten,Riau,0.986276
+Kepulauan Riau,Sulawesi Utara,0.985727
+Gorontalo,Papua Barat,0.984989
+Kalimantan Timur,Papua Selatan,0.984917
+Kepulauan Riau,Papua Selatan,0.984442
+Jambi,Maluku,0.983234
+Papua Barat,Papua Tengah,0.983207
+Kalimantan Tengah,Maluku,0.982915
+Bali,Kalimantan Timur,0.982727
+Kalimantan Utara,Kepulauan Riau,0.982529
+Kepulauan Riau,Sulawesi Barat,0.982117
+Kalimantan Timur,Kepulauan Riau,0.981995
+Nusa Tenggara Barat,Sulawesi Tenggara,0.981589
+Lampung,Sulawesi Tengah,0.981008
+Kalimantan Timur,Sulawesi Barat,0.980037
+Papua,Papua Barat,0.979213
+Kalimantan Timur,Sulawesi Tengah,0.979087
+Kepulauan Riau,Sulawesi Tengah,0.978939
+Bengkulu,Sulawesi Tengah,0.978757
+Kalimantan Selatan,Sumatera Barat,0.978742
+Kalimantan Barat,Lampung,0.978429
+Banten,Lampung,0.978358
+Bengkulu,Maluku Utara,0.978001
+Nusa Tenggara Timur,Sumatera Selatan,0.97791
+Bali,DI Yogyakarta,0.977561
+Kalimantan Timur,Kepulauan Bangka Belitung,0.977511
+Riau,Sulawesi Utara,0.977206
+Jambi,Maluku Utara,0.976492
+Kalimantan Timur,Kalimantan Utara,0.976264
+Bengkulu,Gorontalo,0.976174
+Sulawesi Selatan,Sumatera Selatan,0.97575
+Banten,Papua Tengah,0.975189
+Gorontalo,Papua Barat Daya,0.97508
+Kalimantan Barat,Riau,0.974526
+Gorontalo,Sulawesi Tengah,0.974447
+Jawa Tengah,Jawa Timur,0.974163
+Papua Barat,Sulawesi Tengah,0.973735
+Gorontalo,Kalimantan Utara,0.973532
+DI Yogyakarta,Gorontalo,0.973099
+Maluku Utara,Papua,0.972913
+Banten,Sulawesi Tengah,0.97233
+Gorontalo,Sulawesi Barat,0.972305
+Papua Barat Daya,Sulawesi Tengah,0.972252
+Gorontalo,Papua Selatan,0.972187
+Kepulauan Bangka Belitung,Kepulauan Riau,0.971514
+Bali,Papua Barat Daya,0.97149
+DI Yogyakarta,Sulawesi Tengah,0.969584
+Kalimantan Selatan,Sulawesi Tenggara,0.969179
+Bengkulu,Papua Barat,0.968765
+Banten,Kalimantan Barat,0.968682
+Bengkulu,Kalimantan Tengah,0.968075
+Papua Tengah,Sulawesi Utara,0.967241
+Kalimantan Selatan,Lampung,0.965708
+Kalimantan Selatan,Nusa Tenggara Barat,0.965506
+Bali,Papua Selatan,0.964899
+Bali,Kepulauan Bangka Belitung,0.964491
+Bengkulu,Riau,0.964486
+Kalimantan Timur,Riau,0.963973
+DI Yogyakarta,Papua Barat,0.963805
+Banten,Papua Barat,0.963437
+Kalimantan Timur,Nusa Tenggara Barat,0.962921
+Kalimantan Timur,Sulawesi Utara,0.962822
+Banten,Sulawesi Utara,0.962805
+Papua Barat Daya,Sulawesi Utara,0.962652
+Maluku,Maluku Utara,0.96247
+Kalimantan Timur,Papua Barat,0.962397
+Gorontalo,Kalimantan Timur,0.961786
+Bengkulu,Kepulauan Riau,0.961525
+Papua,Sulawesi Utara,0.96141
+Maluku Utara,Sulawesi Utara,0.961251
+Papua Barat,Papua Barat Daya,0.961081
+Nusa Tenggara Barat,Papua Pegunungan,0.960899
+DI Yogyakarta,Sulawesi Utara,0.960665
+Aceh,Sulawesi Tenggara,0.960376
+Bengkulu,Jambi,0.960057
+Jambi,Kalimantan Barat,0.959822
+Kalimantan Barat,Kalimantan Tengah,0.959439
+Lampung,Sulawesi Utara,0.958886
+Maluku Utara,Papua Tengah,0.958761
+Bali,Nusa Tenggara Barat,0.958297
+Bali,Sulawesi Barat,0.956543
+Gorontalo,Kepulauan Bangka Belitung,0.956275
+Papua Barat,Riau,0.955992
+Papua Selatan,Sulawesi Tengah,0.95488
+Sulawesi Selatan,Sulawesi Tenggara,0.954156
+Banten,Kalimantan Timur,0.953977
+Bengkulu,Kalimantan Barat,0.953703
+Bali,Kalimantan Utara,0.953695
+Kalimantan Selatan,Riau,0.953506
+Banten,Papua,0.953099
+Bengkulu,Papua,0.952401
+Bengkulu,Papua Tengah,0.952169
+Maluku Utara,Papua Barat,0.951907
+Kalimantan Barat,Sulawesi Tengah,0.951402
+Kepulauan Riau,Riau,0.951378
+Sulawesi Barat,Sulawesi Tengah,0.951338
+Papua Barat,Papua Selatan,0.950663
+Bengkulu,Lampung,0.949687
+Papua Tengah,Riau,0.949318
+Bali,Kepulauan Riau,0.949118
+Papua Tengah,Sulawesi Tengah,0.948967
+Papua Selatan,Sulawesi Utara,0.948764
+Kalimantan Barat,Papua Tengah,0.948206
+Nusa Tenggara Barat,Papua Barat Daya,0.948202
+Kepulauan Riau,Papua Tengah,0.948066
+Nusa Tenggara Timur,Sulawesi Selatan,0.948035
+Kalimantan Barat,Sulawesi Utara,0.946992
+Kalimantan Tengah,Papua,0.946947
+DI Yogyakarta,Nusa Tenggara Barat,0.946926
+Kalimantan Utara,Sulawesi Tengah,0.946673
+Kalimantan Utara,Papua Barat,0.946661
+Sulawesi Barat,Sulawesi Utara,0.946138
+Papua Barat,Sulawesi Barat,0.945497
+Kalimantan Timur,Lampung,0.945437
+Kepulauan Bangka Belitung,Papua Pegunungan,0.945253
+Papua Barat Daya,Riau,0.944794
+Kalimantan Utara,Sulawesi Utara,0.944551
+Aceh,Sumatera Barat,0.944172
+DI Yogyakarta,Riau,0.942919
+Gorontalo,Maluku Utara,0.942748
+Banten,Kepulauan Riau,0.942409
+Gorontalo,Riau,0.942067
+Aceh,Papua Pegunungan,0.941772
+Gorontalo,Papua Tengah,0.941611
+Gorontalo,Papua,0.941019
+Kepulauan Riau,Papua,0.940438
+Kalimantan Tengah,Sulawesi Utara,0.940078
+Banten,Bengkulu,0.939748
+Kepulauan Bangka Belitung,Nusa Tenggara Barat,0.938224
+Bali,DKI Jakarta,0.937124
+Kalimantan Tengah,Papua Tengah,0.936943
+Papua Pegunungan,Sumatera Barat,0.93679
+Sulawesi Selatan,Sumatera Barat,0.936448
+Kepulauan Bangka Belitung,Sulawesi Tengah,0.936093
+Nusa Tenggara Barat,Papua Selatan,0.93531
+Kalimantan Selatan,Sulawesi Tengah,0.934675
+Kalimantan Barat,Maluku Utara,0.933745
+Kalimantan Barat,Papua,0.933537
+Papua,Sulawesi Tengah,0.932679
+Bali,Papua Pegunungan,0.932441
+Papua Pegunungan,Sulawesi Tenggara,0.931252
+Kepulauan Bangka Belitung,Papua Barat,0.930279
+Nusa Tenggara Barat,Sulawesi Barat,0.930108
+Banten,DI Yogyakarta,0.929877
+Kalimantan Selatan,Kalimantan Timur,0.929785
+Lampung,Papua Barat,0.92909
+Bali,Papua Barat,0.928937
+Bengkulu,Papua Barat Daya,0.928883
+Bali,Sulawesi Tengah,0.928805
+Lampung,Papua Tengah,0.928214
+Jambi,Papua,0.927439
+Papua,Riau,0.92714
+Kalimantan Timur,Sumatera Barat,0.926983
+Jambi,Sulawesi Utara,0.926865
+Papua Pegunungan,Papua Selatan,0.926858
+Kepulauan Bangka Belitung,Sulawesi Utara,0.926566
+Bali,Banten,0.926404
+Banten,Papua Barat Daya,0.926374
+Aceh,Nusa Tenggara Barat,0.926167
+Bengkulu,Kalimantan Timur,0.925979
+Papua Pegunungan,Sulawesi Barat,0.925788
+Maluku Utara,Sulawesi Tengah,0.92513
+Aceh,Sulawesi Selatan,0.924734
+Bengkulu,DI Yogyakarta,0.923998
+Banten,Gorontalo,0.92383
+Kepulauan Riau,Lampung,0.923711
+Lampung,Papua Barat Daya,0.920936
+Nusa Tenggara Barat,Sulawesi Tengah,0.920707
+Kalimantan Utara,Nusa Tenggara Barat,0.920462
+Papua Barat Daya,Papua Pegunungan,0.920092
+Kalimantan Utara,Papua Pegunungan,0.920046
+Kepulauan Riau,Maluku Utara,0.920031
+Kalimantan Barat,Papua Barat,0.919868
+Kalimantan Timur,Papua Tengah,0.9197
+Banten,Kalimantan Selatan,0.919644
+DI Yogyakarta,Papua Pegunungan,0.919473
+Papua Selatan,Riau,0.918867
+Jambi,Papua Tengah,0.918416
+DI Yogyakarta,Lampung,0.917901
+Kalimantan Selatan,Sulawesi Selatan,0.917531
+Nusa Tenggara Barat,Riau,0.91676
+DKI Jakarta,Papua Pegunungan,0.916598
+Bali,Riau,0.915148
+Kalimantan Timur,Papua Pegunungan,0.914357
+Kalimantan Tengah,Papua Barat,0.914054
+Gorontalo,Lampung,0.913965
+Kalimantan Tengah,Riau,0.913719
+Bengkulu,Papua Selatan,0.912977
+Sulawesi Tenggara,Sumatera Selatan,0.912521
+Riau,Sulawesi Barat,0.912513
+Bali,Gorontalo,0.912462
+Lampung,Nusa Tenggara Barat,0.912408
+Bengkulu,Sulawesi Barat,0.912397
+Kalimantan Tengah,Sulawesi Tengah,0.912076
+Maluku Utara,Riau,0.91136
+Bali,Sumatera Barat,0.911031
+Bengkulu,Kalimantan Utara,0.910645
+Kalimantan Barat,Maluku,0.909642
+Maluku,Papua,0.909582
+DI Yogyakarta,Papua Tengah,0.909219
+Bengkulu,Maluku,0.908383
+Papua Barat Daya,Sumatera Barat,0.908007
+Jambi,Riau,0.90736
+Bali,Sulawesi Utara,0.907254
+Lampung,Sumatera Barat,0.906544
+Kalimantan Selatan,Sumatera Selatan,0.906456
+Banten,Maluku Utara,0.906403
+Kalimantan Utara,Riau,0.905519
+Kalimantan Tengah,Lampung,0.905276
+Papua Barat Daya,Papua Tengah,0.903974
+DI Yogyakarta,Sumatera Barat,0.903566
+Jambi,Lampung,0.903426
+Nusa Tenggara Barat,Sulawesi Selatan,0.902724
+Lampung,Papua,0.902073
+Jambi,Sulawesi Tengah,0.901853
+Kalimantan Selatan,Papua Barat Daya,0.901455
+Banten,Kalimantan Tengah,0.901345
+Gorontalo,Kalimantan Tengah,0.900908
+Riau,Sumatera Barat,0.900268
+Kalimantan Timur,Sulawesi Tenggara,0.899511
+Banten,Papua Selatan,0.89846
+Kepulauan Riau,Nusa Tenggara Barat,0.898049
+Kalimantan Barat,Kalimantan Selatan,0.897113
+DI Yogyakarta,Kalimantan Selatan,0.896766
+Kepulauan Bangka Belitung,Riau,0.896566
+Kalimantan Timur,Papua,0.895756
+Sulawesi Tengah,Sumatera Barat,0.895714
+Sumatera Barat,Sumatera Selatan,0.8937
+Bali,Kalimantan Selatan,0.893483
+Jambi,Papua Barat,0.892832
+Kepulauan Bangka Belitung,Sumatera Barat,0.892593
+Bali,Lampung,0.891862
+DI Yogyakarta,Papua,0.890965
+Banten,Nusa Tenggara Barat,0.890624
+Lampung,Maluku Utara,0.890462
+Lampung,Papua Selatan,0.890349
+Papua Selatan,Sumatera Barat,0.890055
+Banten,Jambi,0.889074
+Gorontalo,Kalimantan Barat,0.88892
+Bali,Sulawesi Tenggara,0.888774
+Maluku,Papua Tengah,0.888237
+Kalimantan Barat,Kepulauan Riau,0.888036
+Banten,Sulawesi Barat,0.887776
+DKI Jakarta,Nusa Tenggara Barat,0.887244
+Bali,Papua Tengah,0.886603
+Papua,Papua Barat Daya,0.886043
+Sulawesi Barat,Sumatera Barat,0.885725
+Bengkulu,Kepulauan Bangka Belitung,0.885703
+Kalimantan Barat,Kalimantan Timur,0.884209
+Lampung,Sulawesi Barat,0.88358
+Kalimantan Selatan,Sulawesi Utara,0.883364
+Papua Selatan,Papua Tengah,0.883076
+Banten,Kalimantan Utara,0.882558
+Gorontalo,Jambi,0.882043
+Jawa Tengah,Sumatera Utara,0.881605
+Lampung,Sulawesi Tenggara,0.87998
+Papua Barat Daya,Sulawesi Tenggara,0.877764
+Kalimantan Tengah,Kepulauan Riau,0.875323
+Kalimantan Utara,Lampung,0.874506
+Banten,Kepulauan Bangka Belitung,0.874445
+Kalimantan Utara,Papua Tengah,0.874294
+Papua Tengah,Sulawesi Barat,0.8738
+DI Yogyakarta,Sulawesi Tenggara,0.873138
+Kalimantan Utara,Sumatera Barat,0.87278
+Kalimantan Selatan,Papua Selatan,0.872294
+Nusa Tenggara Barat,Sulawesi Utara,0.872127
+Jawa Tengah,Nusa Tenggara Timur,0.87071
+Riau,Sulawesi Tenggara,0.870141
+Papua,Papua Selatan,0.868032
+Kepulauan Bangka Belitung,Lampung,0.866784
+Maluku,Sulawesi Utara,0.866208
+Kalimantan Selatan,Sulawesi Barat,0.865969
+Kalimantan Selatan,Kepulauan Riau,0.865392
+Kepulauan Bangka Belitung,Sulawesi Tenggara,0.864367
+Gorontalo,Nusa Tenggara Barat,0.863972
+Kalimantan Utara,Papua,0.86256
+Jawa Barat,Sumatera Utara,0.862472
+Sulawesi Tengah,Sulawesi Tenggara,0.862148
+Aceh,Kalimantan Selatan,0.862118
+Kalimantan Selatan,Kepulauan Bangka Belitung,0.861723
+Papua,Sulawesi Barat,0.860107
+Kalimantan Selatan,Papua Pegunungan,0.859955
+DKI Jakarta,Kalimantan Timur,0.859905
+Banten,Sumatera Barat,0.859654
+DKI Jakarta,Kepulauan Bangka Belitung,0.859591
+Bengkulu,Kalimantan Selatan,0.859379
+Papua Selatan,Sulawesi Tenggara,0.859082
+Maluku Utara,Papua Barat Daya,0.85795
+Kalimantan Barat,Sumatera Utara,0.85643
+Kalimantan Barat,Papua Barat Daya,0.856188
+Bali,Papua,0.856072
+DI Yogyakarta,Maluku Utara,0.855814
+Nusa Tenggara Barat,Papua Barat,0.855711
+Sulawesi Barat,Sulawesi Tenggara,0.854462
+Kalimantan Timur,Maluku Utara,0.854353
+Jambi,Kepulauan Riau,0.854078
+DI Yogyakarta,DKI Jakarta,0.854031
+DI Yogyakarta,Kalimantan Barat,0.854009
+Kepulauan Bangka Belitung,Papua Tengah,0.854007
+Kepulauan Riau,Papua Pegunungan,0.852934
+Kalimantan Selatan,Kalimantan Utara,0.852403
+Aceh,Sumatera Selatan,0.852155
+Bali,Bengkulu,0.849564
+Sumatera Selatan,Sumatera Utara,0.849195
+Kepulauan Riau,Sumatera Barat,0.848645
+Maluku,Papua Barat,0.843212
+Kalimantan Selatan,Papua Barat,0.843026
+DKI Jakarta,Papua Selatan,0.842354
+Kalimantan Utara,Maluku Utara,0.841966
+Maluku Utara,Papua Selatan,0.841592
+DKI Jakarta,Papua Barat Daya,0.841396
+Gorontalo,Kalimantan Selatan,0.841353
+Kalimantan Utara,Sulawesi Tenggara,0.840217
+Maluku Utara,Sulawesi Barat,0.839801
+Jawa Tengah,Sumatera Selatan,0.837415
+Jawa Timur,Sumatera Utara,0.837314
+Aceh,DKI Jakarta,0.837261
+Nusa Tenggara Barat,Sumatera Selatan,0.837019
+Kepulauan Bangka Belitung,Papua,0.836929
+Sulawesi Utara,Sumatera Barat,0.835628
+Nusa Tenggara Timur,Sulawesi Tenggara,0.834725
+DKI Jakarta,Sumatera Barat,0.833976
+Lampung,Sumatera Utara,0.833743
+Papua Pegunungan,Sulawesi Tengah,0.830591
+DKI Jakarta,Sulawesi Barat,0.830108
+DKI Jakarta,Sulawesi Tenggara,0.829151
+Maluku,Riau,0.828145
+Banten,Sulawesi Tenggara,0.82749
+DKI Jakarta,Kalimantan Utara,0.827324
+Banten,Maluku,0.825264
+Bengkulu,Nusa Tenggara Barat,0.824777
+Maluku,Sulawesi Tengah,0.822332
+Papua Pegunungan,Sulawesi Selatan,0.820263
+Gorontalo,Maluku,0.820241
+Lampung,Maluku,0.819846
+Kalimantan Barat,Papua Selatan,0.819759
+Kalimantan Selatan,Papua Tengah,0.819487
+Kalimantan Tengah,Kalimantan Timur,0.819019
+Jawa Barat,Nusa Tenggara Timur,0.818793
+Kalimantan Selatan,Sumatera Utara,0.818199
+Gorontalo,Sumatera Barat,0.816461
+Gorontalo,Papua Pegunungan,0.816074
+Aceh,Bali,0.815976
+Bali,Kalimantan Barat,0.815932
+Kalimantan Tengah,Papua Barat Daya,0.812964
+Aceh,Nusa Tenggara Timur,0.812056
+Kalimantan Barat,Sulawesi Barat,0.811806
+Kalimantan Barat,Nusa Tenggara Barat,0.810764
+Kepulauan Riau,Sulawesi Tenggara,0.809494
+DI Yogyakarta,Kalimantan Tengah,0.808481
+Kepulauan Bangka Belitung,Maluku Utara,0.806021
+Kalimantan Barat,Kalimantan Utara,0.804592
+Nusa Tenggara Timur,Sumatera Barat,0.802261
+Aceh,Kepulauan Bangka Belitung,0.801901
+Papua Barat,Sumatera Barat,0.80137
+Kalimantan Selatan,Nusa Tenggara Timur,0.80067
+Kalimantan Barat,Sumatera Barat,0.800571
+Jambi,Kalimantan Timur,0.800443
+Nusa Tenggara Barat,Papua Tengah,0.799938
+Papua Pegunungan,Riau,0.799322
+Banten,Sumatera Utara,0.798786
+Lampung,Sulawesi Selatan,0.797646
+Aceh,Kalimantan Timur,0.797321
+Bengkulu,Sumatera Barat,0.795697
+Lampung,Sumatera Selatan,0.795599
+Sulawesi Tenggara,Sulawesi Utara,0.794436
+Riau,Sumatera Utara,0.792835
+Jambi,Papua Barat Daya,0.792733
+Bali,Sulawesi Selatan,0.789437
+DKI Jakarta,Kepulauan Riau,0.787691
+DI Yogyakarta,Jambi,0.786794
+Kalimantan Tengah,Papua Selatan,0.786771
+Nusa Tenggara Timur,Sumatera Utara,0.786447
+DKI Jakarta,Sulawesi Selatan,0.786224
+Papua Pegunungan,Sulawesi Utara,0.785214
+Kalimantan Barat,Kepulauan Bangka Belitung,0.784621
+Aceh,Papua Barat Daya,0.78461
+Kepulauan Riau,Maluku,0.784609
+Kalimantan Tengah,Sulawesi Barat,0.784281
+Jawa Barat,Sumatera Selatan,0.783265
+Papua Barat,Papua Pegunungan,0.783064
+Kalimantan Tengah,Kalimantan Utara,0.783049
+Lampung,Papua Pegunungan,0.780607
+Aceh,DI Yogyakarta,0.780321
+Aceh,Papua Selatan,0.779092
+Jawa Tengah,Sulawesi Selatan,0.778379
+Jawa Timur,Nusa Tenggara Timur,0.777213
+Aceh,Sulawesi Barat,0.776781
+Kalimantan Selatan,Papua,0.775346
+Kalimantan Timur,Sulawesi Selatan,0.775092
+Bali,Maluku Utara,0.775005
+Gorontalo,Sulawesi Tenggara,0.773393
+Sulawesi Selatan,Sumatera Utara,0.772083
+Jambi,Kalimantan Selatan,0.77135
+Riau,Sulawesi Selatan,0.771305
+Kalimantan Selatan,Kalimantan Tengah,0.769931
+Banten,Papua Pegunungan,0.767796
+Banten,DKI Jakarta,0.767214
+DKI Jakarta,Kalimantan Selatan,0.76602
+Kalimantan Barat,Sulawesi Tenggara,0.765331
+Jambi,Papua Selatan,0.76396
+Aceh,Kalimantan Utara,0.762771
+Jambi,Sulawesi Barat,0.761909
+Jambi,Kalimantan Utara,0.759459
+Papua Barat,Sulawesi Tenggara,0.757722
+Nusa Tenggara Barat,Papua,0.75616
+Riau,Sumatera Selatan,0.75504
+DKI Jakarta,Papua Barat,0.753712
+Bengkulu,Sulawesi Tenggara,0.751589
+Kalimantan Selatan,Maluku Utara,0.751364
+Banten,Sulawesi Selatan,0.749049
+Jawa Timur,Sumatera Selatan,0.748173
+Papua Tengah,Sumatera Barat,0.746964
+Kalimantan Tengah,Kepulauan Bangka Belitung,0.745781
+DKI Jakarta,Sulawesi Tengah,0.7439
+Jambi,Sumatera Utara,0.73296
+DKI Jakarta,Riau,0.73238
+Nusa Tenggara Barat,Nusa Tenggara Timur,0.731169
+Sulawesi Selatan,Sulawesi Tengah,0.731149
+Jawa Barat,Sulawesi Selatan,0.73068
+Papua Barat Daya,Sulawesi Selatan,0.72621
+DI Yogyakarta,Sulawesi Selatan,0.725266
+Bali,Kalimantan Tengah,0.724742
+DKI Jakarta,Gorontalo,0.723117
+Bengkulu,Papua Pegunungan,0.72272
+Jambi,Kepulauan Bangka Belitung,0.721621
+Jawa Timur,Sulawesi Selatan,0.720282
+Banten,Sumatera Selatan,0.718084
+Aceh,Lampung,0.717149
+Aceh,Sulawesi Tengah,0.715248
+Kalimantan Tengah,Sumatera Utara,0.713704
+Sulawesi Tengah,Sumatera Utara,0.712859
+Papua Pegunungan,Sumatera Selatan,0.710524
+Aceh,Riau,0.710512
+Kalimantan Barat,Sumatera Selatan,0.707145
+DKI Jakarta,Lampung,0.706417
+Kalimantan Timur,Maluku,0.705613
+Maluku Utara,Nusa Tenggara Barat,0.705435
+Kalimantan Timur,Sumatera Selatan,0.704621
+DKI Jakarta,Sulawesi Utara,0.703969
+Sumatera Barat,Sumatera Utara,0.702468
+DKI Jakarta,Papua Tengah,0.701894
+Papua Tengah,Sulawesi Tenggara,0.701775
+Papua Tengah,Sumatera Utara,0.700586
+Sulawesi Tengah,Sumatera Selatan,0.700211
+Maluku,Papua Barat Daya,0.6993
+Bali,Jambi,0.698849
+Kepulauan Bangka Belitung,Sulawesi Selatan,0.698818
+Papua,Sumatera Barat,0.697713
+Sulawesi Tenggara,Sumatera Utara,0.696754
+DI Yogyakarta,Maluku,0.695378
+Papua Selatan,Sulawesi Selatan,0.693509
+Bali,Sumatera Selatan,0.688726
+Papua Pegunungan,Papua Tengah,0.687
+Kalimantan Barat,Sulawesi Selatan,0.685492
+Kalimantan Tengah,Nusa Tenggara Barat,0.685039
+Aceh,Kepulauan Riau,0.684855
+Sulawesi Barat,Sulawesi Selatan,0.682206
+Jambi,Nusa Tenggara Barat,0.673353
+Maluku,Sumatera Utara,0.671985
+Maluku,Papua Selatan,0.670861
+Kalimantan Utara,Maluku,0.669107
+Bengkulu,Sumatera Utara,0.668697
+Maluku,Sulawesi Barat,0.668224
+Sulawesi Utara,Sumatera Utara,0.664448
+Kalimantan Utara,Sulawesi Selatan,0.663269
+Nusa Tenggara Barat,Sumatera Utara,0.663009
+Maluku Utara,Sumatera Barat,0.661586
+Aceh,Banten,0.660738
+Kalimantan Tengah,Sumatera Barat,0.659796
+DKI Jakarta,Papua,0.656716
+Papua,Sumatera Utara,0.656609
+Jambi,Sumatera Barat,0.655987
+Lampung,Nusa Tenggara Timur,0.653037
+Papua Barat Daya,Sumatera Selatan,0.649482
+Kalimantan Selatan,Maluku,0.649329
+Papua,Sulawesi Tenggara,0.647845
+Papua,Papua Pegunungan,0.646987
+Kepulauan Riau,Sulawesi Selatan,0.64566
+Kalimantan Barat,Papua Pegunungan,0.644622
+DI Yogyakarta,Sumatera Selatan,0.644106
+Sulawesi Selatan,Sulawesi Utara,0.641786
+DKI Jakarta,Sumatera Selatan,0.640783
+Kalimantan Timur,Sumatera Utara,0.639853
+Aceh,Gorontalo,0.637907
+Aceh,Sulawesi Utara,0.633851
+Jawa Tengah,Kalimantan Selatan,0.631502
+Maluku Utara,Sumatera Utara,0.626601
+Kepulauan Bangka Belitung,Maluku,0.622277
+Papua Barat,Sumatera Utara,0.62014
+Nusa Tenggara Timur,Papua Pegunungan,0.614359
+Bengkulu,DKI Jakarta,0.612188
+Kalimantan Tengah,Sulawesi Tenggara,0.60967
+Sulawesi Utara,Sumatera Selatan,0.608517
+Papua Barat,Sulawesi Selatan,0.608413
+Maluku Utara,Sulawesi Tenggara,0.607745
+Jambi,Sulawesi Tenggara,0.607472
+Papua Selatan,Sumatera Selatan,0.606282
+Nusa Tenggara Timur,Riau,0.60357
+Aceh,Papua Barat,0.603568
+Kepulauan Bangka Belitung,Sumatera Selatan,0.602524
+Bali,Maluku,0.601714
+Sulawesi Barat,Sumatera Selatan,0.596008
+Bali,Sumatera Utara,0.593045
+DKI Jakarta,Kalimantan Barat,0.591372
+Gorontalo,Sulawesi Selatan,0.590701
+Bengkulu,Sulawesi Selatan,0.589798
+Maluku Utara,Papua Pegunungan,0.589532
+Papua Tengah,Sulawesi Selatan,0.586509
+Jawa Tengah,Sulawesi Tenggara,0.584439
+Jawa Barat,Kalimantan Selatan,0.580434
+Bengkulu,Sumatera Selatan,0.579446
+Kepulauan Riau,Sumatera Selatan,0.577379
+Kalimantan Utara,Sumatera Selatan,0.573931
+Aceh,Bengkulu,0.57308
+Kepulauan Riau,Sumatera Utara,0.572333
+Jawa Timur,Kalimantan Selatan,0.571224
+Banten,Nusa Tenggara Timur,0.568865
+Papua Barat Daya,Sumatera Utara,0.567958
+DI Yogyakarta,Sumatera Utara,0.567119
+DKI Jakarta,Nusa Tenggara Timur,0.565546
+Jawa Tengah,Lampung,0.560196
+Jawa Tengah,Sumatera Barat,0.559812
+Aceh,Kalimantan Barat,0.558914
+Bali,Nusa Tenggara Timur,0.558434
+Kalimantan Timur,Nusa Tenggara Timur,0.556405
+Kalimantan Barat,Nusa Tenggara Timur,0.552752
+Papua Barat,Sumatera Selatan,0.550249
+Gorontalo,Sumatera Utara,0.549558
+Banten,Jawa Timur,0.547925
+Papua Tengah,Sumatera Selatan,0.547537
+Jawa Tengah,Kalimantan Barat,0.544461
+Maluku,Nusa Tenggara Barat,0.541509
+Nusa Tenggara Timur,Sulawesi Tengah,0.537877
+Banten,Jawa Tengah,0.536227
+Gorontalo,Sumatera Selatan,0.534515
+Kalimantan Tengah,Papua Pegunungan,0.533903
+Jawa Barat,Sulawesi Tenggara,0.525556
+Jawa Timur,Lampung,0.524699
+Jawa Barat,Lampung,0.523187
+Jawa Timur,Kalimantan Barat,0.521688
+Jawa Barat,Kalimantan Barat,0.519642
+Banten,Jawa Barat,0.519295
+Jawa Timur,Sulawesi Tenggara,0.518705
+DKI Jakarta,Maluku Utara,0.517251
+Papua,Sulawesi Selatan,0.516072
+Aceh,Papua Tengah,0.515122
+Maluku,Sumatera Barat,0.513688
+Jambi,Sumatera Selatan,0.51358
+Jambi,Papua Pegunungan,0.512807
+Aceh,Sumatera Utara,0.507956
+Jawa Tengah,Riau,0.506051
+Papua Selatan,Sumatera Utara,0.505311
+Jawa Tengah,Nusa Tenggara Barat,0.503265
+Jawa Barat,Sumatera Barat,0.502802
+Jawa Timur,Sumatera Barat,0.499368
+Kalimantan Tengah,Sumatera Selatan,0.497248
+Nusa Tenggara Timur,Papua Barat Daya,0.493267
+Sulawesi Barat,Sumatera Utara,0.488985
+DI Yogyakarta,Nusa Tenggara Timur,0.488571
+Aceh,Jawa Tengah,0.488286
+Jawa Timur,Riau,0.482429
+Papua,Sumatera Selatan,0.478577
+Jambi,Sulawesi Selatan,0.473151
+Jawa Barat,Riau,0.472213
+Kalimantan Utara,Sumatera Utara,0.471171
+Jawa Timur,Nusa Tenggara Barat,0.469466
+Kepulauan Bangka Belitung,Sumatera Utara,0.469451
+Kalimantan Tengah,Sulawesi Selatan,0.469254
+DKI Jakarta,Jawa Timur,0.469169
+Maluku,Sulawesi Tenggara,0.458305
+Jawa Barat,Nusa Tenggara Barat,0.455466
+Aceh,Papua,0.454076
+Kepulauan Bangka Belitung,Nusa Tenggara Timur,0.4512
+Nusa Tenggara Timur,Papua Selatan,0.448542
+DKI Jakarta,Kalimantan Tengah,0.447201
+DKI Jakarta,Sumatera Utara,0.442336
+Maluku Utara,Sulawesi Selatan,0.441125
+Nusa Tenggara Timur,Sulawesi Barat,0.437007
+Maluku Utara,Sumatera Selatan,0.436733
+Papua Pegunungan,Sumatera Utara,0.432891
+Bali,Jawa Timur,0.432034
+Nusa Tenggara Timur,Sulawesi Utara,0.431174
+Aceh,Jawa Barat,0.424742
+Aceh,Jawa Timur,0.420678
+Jawa Timur,Papua Tengah,0.419621
+DKI Jakarta,Jambi,0.413101
+Kalimantan Utara,Nusa Tenggara Timur,0.412601
+DKI Jakarta,Jawa Tengah,0.410087
+Bali,Jawa Tengah,0.40534
+Kepulauan Riau,Nusa Tenggara Timur,0.403924
+Jawa Tengah,Sulawesi Tengah,0.40207
+DKI Jakarta,Jawa Barat,0.400273
+Aceh,Maluku Utara,0.399175
+Bengkulu,Nusa Tenggara Timur,0.396314
+Jawa Tengah,Kalimantan Timur,0.386513
+Jawa Timur,Kalimantan Timur,0.383563
+Bali,Jawa Barat,0.382983
+Aceh,Kalimantan Tengah,0.382508
+Jawa Tengah,Papua Tengah,0.381303
+Jawa Timur,Sulawesi Tengah,0.379535
+Jawa Barat,Papua Tengah,0.377062
+Aceh,Jambi,0.376553
+Nusa Tenggara Timur,Papua Tengah,0.373722
+Maluku,Papua Pegunungan,0.372691
+Nusa Tenggara Timur,Papua Barat,0.37196
+Maluku,Sumatera Selatan,0.370992
+Jawa Barat,Sulawesi Tengah,0.365266
+Jawa Timur,Papua,0.354399
+Jawa Barat,Kalimantan Timur,0.352885
+Gorontalo,Nusa Tenggara Timur,0.35169
+Jambi,Nusa Tenggara Timur,0.332742
+Jambi,Jawa Tengah,0.332095
+Maluku,Sulawesi Selatan,0.323203
+Jawa Tengah,Sulawesi Utara,0.317693
+Jawa Timur,Papua Barat,0.315198
+Kalimantan Tengah,Nusa Tenggara Timur,0.312363
+Jawa Tengah,Kalimantan Tengah,0.312027
+Jawa Tengah,Papua,0.312023
+Jawa Barat,Papua,0.310298
+Jawa Timur,Sulawesi Utara,0.308238
+Jambi,Jawa Barat,0.307636
+Jawa Tengah,Papua Pegunungan,0.305842
+DKI Jakarta,Maluku,0.303513
+Jambi,Jawa Timur,0.303118
+DI Yogyakarta,Jawa Timur,0.297427
+DI Yogyakarta,Jawa Tengah,0.297016
+Nusa Tenggara Timur,Papua,0.295949
+Jawa Timur,Kalimantan Tengah,0.294197
+Jawa Tengah,Papua Barat Daya,0.291649
+Jawa Tengah,Papua Barat,0.291252
+Jawa Barat,Kalimantan Tengah,0.290879
+Bengkulu,Jawa Tengah,0.289852
+Jawa Barat,Sulawesi Utara,0.287332
+Jawa Timur,Papua Barat Daya,0.284836
+Jawa Timur,Papua Pegunungan,0.282548
+Jawa Barat,Papua Barat,0.274423
+Bengkulu,Jawa Timur,0.265003
+DI Yogyakarta,Jawa Barat,0.262869
+Jawa Timur,Kepulauan Riau,0.259743
+Jawa Barat,Papua Pegunungan,0.255915
+Bengkulu,Jawa Barat,0.255787
+Jawa Tengah,Maluku,0.255417
+Jawa Barat,Papua Barat Daya,0.254361
+Jawa Tengah,Kepulauan Riau,0.252858
+Jawa Timur,Maluku,0.248341
+Jawa Barat,Maluku,0.245632
+Maluku Utara,Nusa Tenggara Timur,0.241626
+Jawa Tengah,Papua Selatan,0.226914
+Jawa Barat,Kepulauan Riau,0.224414
+Jawa Timur,Papua Selatan,0.222968
+Jawa Timur,Maluku Utara,0.22141
+Jawa Tengah,Maluku Utara,0.218144
+Jawa Tengah,Kepulauan Bangka Belitung,0.208954
+Aceh,Maluku,0.20763
+Jawa Timur,Kepulauan Bangka Belitung,0.204881
+Jawa Tengah,Sulawesi Barat,0.204274
+Jawa Barat,Maluku Utara,0.201367
+Jawa Timur,Sulawesi Barat,0.195966
+Gorontalo,Jawa Tengah,0.195074
+Gorontalo,Jawa Timur,0.191806
+Jawa Barat,Papua Selatan,0.189151
+Maluku,Nusa Tenggara Timur,0.185692
+Jawa Tengah,Kalimantan Utara,0.182216
+Jawa Timur,Kalimantan Utara,0.17803
+Jawa Barat,Kepulauan Bangka Belitung,0.169613
+Jawa Barat,Sulawesi Barat,0.164299
+Gorontalo,Jawa Barat,0.163315
+Jawa Barat,Kalimantan Utara,0.143859

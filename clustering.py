@@ -133,7 +133,7 @@ def _save_evaluation(
         {"model": "gmm",    **gmm_eval},
     ]
     pd.DataFrame(rows).to_csv(path, index=False)
-    print(f"  saved → {path}")
+    print(f"  saved -> {path}")
 
 
 # ---------------------------------------------------------
@@ -204,7 +204,7 @@ def run_kmeans(
         provinces = updated.loc[
             updated["cluster_id"] == cid, PROVINCE_COL
         ].tolist()
-        print(f"    cluster {cid}: {count} provinsi → {provinces}")
+        print(f"    cluster {cid}: {count} provinsi -> {provinces}")
 
     return km, updated, eval_dict
 
@@ -292,7 +292,7 @@ def run_gmm(
         provinces_list = updated.loc[
             updated["cluster_id"] == cid, PROVINCE_COL
         ].tolist()
-        print(f"    cluster {cid}: {count} provinsi → {provinces_list}")
+        print(f"    cluster {cid}: {count} provinsi -> {provinces_list}")
 
     return gmm, updated, proba_df, eval_dict
 
@@ -366,13 +366,13 @@ def clustering_pipeline(
     _print_separator("EXPORT")
 
     km_fact.to_csv(KM_RESULT_PATH, index=False)
-    print(f"  saved → {KM_RESULT_PATH}")
+    print(f"  saved -> {KM_RESULT_PATH}")
 
     gmm_fact.to_csv(GMM_RESULT_PATH, index=False)
-    print(f"  saved → {GMM_RESULT_PATH}")
+    print(f"  saved -> {GMM_RESULT_PATH}")
 
     proba_df.to_csv(PROBA_PATH, index=False)
-    print(f"  saved → {PROBA_PATH}")
+    print(f"  saved -> {PROBA_PATH}")
 
     _save_evaluation(km_eval, gmm_eval, EVAL_PATH)
 
@@ -390,8 +390,8 @@ def clustering_pipeline(
         )
 
     _print_separator("SELESAI")
-    print(f"  K-Means  → k={km_model.n_clusters}, silhouette={km_eval['silhouette_score']:.4f}")
-    print(f"  GMM      → k={gmm_model.n_components}, BIC={gmm_eval['bic']:.4f}\n")
+    print(f"  K-Means  -> k={km_model.n_clusters}, silhouette={km_eval['silhouette_score']:.4f}")
+    print(f"  GMM      -> k={gmm_model.n_components}, BIC={gmm_eval['bic']:.4f}\n")
 
     return {
         "km_model":  km_model,

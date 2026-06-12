@@ -1,0 +1,39 @@
+Provinsi,tags,summary
+Aceh,"['high_facility_index', 'low_workforce_index', 'high_insurance_coverage_index']","high_facility_index, low_workforce_index, high_insurance_coverage_index"
+Sumatera Utara,"['high_facility_index', 'high_disease_burden_index', 'low_insurance_coverage_index']","high_facility_index, high_disease_burden_index, low_insurance_coverage_index"
+Sumatera Barat,['low_workforce_index'],low_workforce_index
+Riau,[],typical
+Jambi,['low_insurance_coverage_index'],low_insurance_coverage_index
+Sumatera Selatan,"['high_facility_index', 'low_workforce_index']","high_facility_index, low_workforce_index"
+Bengkulu,['low_disease_burden_index'],low_disease_burden_index
+Lampung,['high_facility_index'],high_facility_index
+Kepulauan Bangka Belitung,"['low_facility_index', 'high_insurance_coverage_index']","low_facility_index, high_insurance_coverage_index"
+Kepulauan Riau,['low_facility_index'],low_facility_index
+DKI Jakarta,"['low_facility_index', 'high_disease_burden_index', 'high_insurance_coverage_index']","low_facility_index, high_disease_burden_index, high_insurance_coverage_index"
+Jawa Barat,"['high_facility_index', 'low_workforce_index', 'high_disease_burden_index', 'low_insurance_coverage_index']","high_facility_index, low_workforce_index, high_disease_burden_index, low_insurance_coverage_index"
+Jawa Tengah,"['high_facility_index', 'low_workforce_index', 'high_disease_burden_index', 'low_insurance_coverage_index']","high_facility_index, low_workforce_index, high_disease_burden_index, low_insurance_coverage_index"
+DI Yogyakarta,['high_insurance_coverage_index'],high_insurance_coverage_index
+Jawa Timur,"['high_facility_index', 'low_workforce_index', 'high_disease_burden_index']","high_facility_index, low_workforce_index, high_disease_burden_index"
+Banten,['high_disease_burden_index'],high_disease_burden_index
+Bali,"['high_disease_burden_index', 'high_insurance_coverage_index']","high_disease_burden_index, high_insurance_coverage_index"
+Nusa Tenggara Barat,['low_workforce_index'],low_workforce_index
+Nusa Tenggara Timur,"['high_facility_index', 'low_workforce_index']","high_facility_index, low_workforce_index"
+Kalimantan Barat,['low_insurance_coverage_index'],low_insurance_coverage_index
+Kalimantan Tengah,['low_insurance_coverage_index'],low_insurance_coverage_index
+Kalimantan Selatan,['low_workforce_index'],low_workforce_index
+Kalimantan Timur,['high_insurance_coverage_index'],high_insurance_coverage_index
+Kalimantan Utara,"['low_facility_index', 'high_workforce_index', 'low_disease_burden_index', 'high_insurance_coverage_index']","low_facility_index, high_workforce_index, low_disease_burden_index, high_insurance_coverage_index"
+Sulawesi Utara,['high_workforce_index'],high_workforce_index
+Sulawesi Tengah,[],typical
+Sulawesi Selatan,"['high_facility_index', 'low_workforce_index', 'high_disease_burden_index']","high_facility_index, low_workforce_index, high_disease_burden_index"
+Sulawesi Tenggara,"['high_facility_index', 'low_workforce_index']","high_facility_index, low_workforce_index"
+Gorontalo,"['low_facility_index', 'high_workforce_index']","low_facility_index, high_workforce_index"
+Sulawesi Barat,"['low_facility_index', 'high_workforce_index', 'low_disease_burden_index', 'high_insurance_coverage_index']","low_facility_index, high_workforce_index, low_disease_burden_index, high_insurance_coverage_index"
+Maluku,"['high_workforce_index', 'low_insurance_coverage_index']","high_workforce_index, low_insurance_coverage_index"
+Maluku Utara,['high_workforce_index'],high_workforce_index
+Papua Barat,['low_facility_index'],low_facility_index
+Papua Barat Daya,[],typical
+Papua,"['high_workforce_index', 'high_disease_burden_index']","high_workforce_index, high_disease_burden_index"
+Papua Selatan,"['low_facility_index', 'high_insurance_coverage_index']","low_facility_index, high_insurance_coverage_index"
+Papua Tengah,['high_disease_burden_index'],high_disease_burden_index
+Papua Pegunungan,['high_insurance_coverage_index'],high_insurance_coverage_index

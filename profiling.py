@@ -47,6 +47,15 @@ import pandas as pd
 
 from src.profiler import ContentRepresentation, RegionalProfiler
 
+# Monkeypatch RegionalProfiler.summarize_cluster_statistics to stack the result
+# so that stats.loc[(cid, "mean"), col] works as expected by generate_cluster_profiles.
+original_summarize = RegionalProfiler.summarize_cluster_statistics
+def patched_summarize(self):
+    df_stats = original_summarize(self)
+    # Stacking moves the inner level ('mean', 'std', etc.) to row index
+    return df_stats.stack()
+RegionalProfiler.summarize_cluster_statistics = patched_summarize
+
 
 # ---------------------------------------------------------
 # Paths
@@ -181,14 +190,14 @@ def run_content_representation(
     content_profiles = cr.generate_content_profiles()
     cp_path = os.path.join(output_dir, "content_profiles.csv")
     content_profiles.to_csv(cp_path, index=False)
-    print(f"  saved → {cp_path}")
+    print(f"  saved -> {cp_path}")
 
     # PCA projection (2D untuk visualisasi / downstream)
     print("\n  [PCA 2D projection]")
     pca_df   = cr.reduce_dimensions(method="pca", n_components=2)
     pca_path = os.path.join(output_dir, "pca_projection.csv")
     pca_df.to_csv(pca_path, index=False)
-    print(f"  saved → {pca_path}")
+    print(f"  saved -> {pca_path}")
 
     return cr
 
@@ -269,7 +278,7 @@ def run_regional_profiler(
     summary_path = os.path.join(output_dir, f"region_summaries{suffix}.json")
     with open(summary_path, "w", encoding="utf-8") as f:
         json.dump(summaries, f, ensure_ascii=False, indent=2)
-    print(f"  saved → {summary_path}")
+    print(f"  saved -> {summary_path}")
 
     # Radar chart
     if visualize:
@@ -372,7 +381,7 @@ def profiling_pipeline(
 
     # ── Summary ───────────────────────────────────────────
     _print_separator("SELESAI")
-    print(f"  Output → {os.path.abspath(PROFILES_DIR)}")
+    print(f"  Output -> {os.path.abspath(PROFILES_DIR)}")
     files = sorted(os.listdir(PROFILES_DIR))
     for f in files:
         print(f"    {f}")

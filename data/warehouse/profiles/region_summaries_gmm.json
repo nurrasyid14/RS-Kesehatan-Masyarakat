@@ -1,0 +1,996 @@
+{
+  "Aceh": {
+    "province": "Aceh",
+    "cluster_id": 1,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 183.0,
+      "workforce_capacity_index": 54.1775,
+      "disease_burden_index": 88.0767,
+      "insurance_coverage_index": 0.1998
+    },
+    "dominant_features": [
+      "low_workforce_capacity_index",
+      "high_facility_index",
+      "low_disease_burden_index"
+    ],
+    "policy_tags": [
+      "DISTRIBUSI_TENAGA"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "on_track",
+      "3.c": "needs_attention"
+    }
+  },
+  "Bali": {
+    "province": "Bali",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 60.0,
+      "workforce_capacity_index": 156.25,
+      "disease_burden_index": 403.9817,
+      "insurance_coverage_index": 0.1832
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Banten": {
+    "province": "Banten",
+    "cluster_id": 3,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 126.5,
+      "workforce_capacity_index": 189.3333,
+      "disease_burden_index": 425.8683,
+      "insurance_coverage_index": 0.1637
+    },
+    "dominant_features": [
+      "low_insurance_coverage_index",
+      "low_disease_burden_index",
+      "low_facility_index"
+    ],
+    "policy_tags": [
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "on_track",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "on_track"
+    }
+  },
+  "Bengkulu": {
+    "province": "Bengkulu",
+    "cluster_id": 3,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 89.5,
+      "workforce_capacity_index": 195.6775,
+      "disease_burden_index": 63.5412,
+      "insurance_coverage_index": 0.1566
+    },
+    "dominant_features": [
+      "low_insurance_coverage_index",
+      "low_disease_burden_index",
+      "low_facility_index"
+    ],
+    "policy_tags": [
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "on_track",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "on_track"
+    }
+  },
+  "DI Yogyakarta": {
+    "province": "DI Yogyakarta",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 60.5,
+      "workforce_capacity_index": 194.4167,
+      "disease_burden_index": 193.0183,
+      "insurance_coverage_index": 0.1837
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "DKI Jakarta": {
+    "province": "DKI Jakarta",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 22.0,
+      "workforce_capacity_index": 112.1667,
+      "disease_burden_index": 769.4433,
+      "insurance_coverage_index": 0.2101
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Gorontalo": {
+    "province": "Gorontalo",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 47.5,
+      "workforce_capacity_index": 260.2609,
+      "disease_burden_index": 78.8283,
+      "insurance_coverage_index": 0.1783
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Jambi": {
+    "province": "Jambi",
+    "cluster_id": 3,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 104.0,
+      "workforce_capacity_index": 177.5833,
+      "disease_burden_index": 86.0867,
+      "insurance_coverage_index": 0.1412
+    },
+    "dominant_features": [
+      "low_insurance_coverage_index",
+      "low_disease_burden_index",
+      "low_facility_index"
+    ],
+    "policy_tags": [
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "on_track",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "on_track"
+    }
+  },
+  "Jawa Barat": {
+    "province": "Jawa Barat",
+    "cluster_id": 2,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 553.0,
+      "workforce_capacity_index": 41.75,
+      "disease_burden_index": 1582.6473,
+      "insurance_coverage_index": 0.1505
+    },
+    "dominant_features": [
+      "high_disease_burden_index",
+      "high_facility_index",
+      "low_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "DISTRIBUSI_TENAGA",
+      "PENGENDALIAN_PENYAKIT",
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "needs_attention"
+    }
+  },
+  "Jawa Tengah": {
+    "province": "Jawa Tengah",
+    "cluster_id": 2,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 440.5,
+      "workforce_capacity_index": 37.1667,
+      "disease_burden_index": 1043.14,
+      "insurance_coverage_index": 0.1505
+    },
+    "dominant_features": [
+      "high_disease_burden_index",
+      "high_facility_index",
+      "low_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "DISTRIBUSI_TENAGA",
+      "PENGENDALIAN_PENYAKIT",
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "needs_attention"
+    }
+  },
+  "Jawa Timur": {
+    "province": "Jawa Timur",
+    "cluster_id": 2,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 488.0,
+      "workforce_capacity_index": 50.1667,
+      "disease_burden_index": 1805.2417,
+      "insurance_coverage_index": 0.1544
+    },
+    "dominant_features": [
+      "high_disease_burden_index",
+      "high_facility_index",
+      "low_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "DISTRIBUSI_TENAGA",
+      "PENGENDALIAN_PENYAKIT",
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "needs_attention"
+    }
+  },
+  "Kalimantan Barat": {
+    "province": "Kalimantan Barat",
+    "cluster_id": 3,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 126.0,
+      "workforce_capacity_index": 147.25,
+      "disease_burden_index": 220.5173,
+      "insurance_coverage_index": 0.1474
+    },
+    "dominant_features": [
+      "low_insurance_coverage_index",
+      "low_disease_burden_index",
+      "low_facility_index"
+    ],
+    "policy_tags": [
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "on_track",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "on_track"
+    }
+  },
+  "Kalimantan Selatan": {
+    "province": "Kalimantan Selatan",
+    "cluster_id": 3,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 121.0,
+      "workforce_capacity_index": 84.1667,
+      "disease_burden_index": 138.9533,
+      "insurance_coverage_index": 0.1549
+    },
+    "dominant_features": [
+      "low_insurance_coverage_index",
+      "low_disease_burden_index",
+      "low_facility_index"
+    ],
+    "policy_tags": [
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "on_track",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "on_track"
+    }
+  },
+  "Kalimantan Tengah": {
+    "province": "Kalimantan Tengah",
+    "cluster_id": 3,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 102.5,
+      "workforce_capacity_index": 206.3442,
+      "disease_burden_index": 115.4423,
+      "insurance_coverage_index": 0.1437
+    },
+    "dominant_features": [
+      "low_insurance_coverage_index",
+      "low_disease_burden_index",
+      "low_facility_index"
+    ],
+    "policy_tags": [
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "on_track",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "on_track"
+    }
+  },
+  "Kalimantan Timur": {
+    "province": "Kalimantan Timur",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 94.0,
+      "workforce_capacity_index": 193.0,
+      "disease_burden_index": 262.795,
+      "insurance_coverage_index": 0.1831
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Kalimantan Utara": {
+    "province": "Kalimantan Utara",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 29.0,
+      "workforce_capacity_index": 228.8442,
+      "disease_burden_index": 63.7867,
+      "insurance_coverage_index": 0.1952
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Kepulauan Bangka Belitung": {
+    "province": "Kepulauan Bangka Belitung",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 32.0,
+      "workforce_capacity_index": 169.8442,
+      "disease_burden_index": 89.705,
+      "insurance_coverage_index": 0.1844
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Kepulauan Riau": {
+    "province": "Kepulauan Riau",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 48.0,
+      "workforce_capacity_index": 221.5,
+      "disease_burden_index": 182.0583,
+      "insurance_coverage_index": 0.1769
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Lampung": {
+    "province": "Lampung",
+    "cluster_id": 3,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 161.0,
+      "workforce_capacity_index": 167.25,
+      "disease_burden_index": 227.05,
+      "insurance_coverage_index": 0.1614
+    },
+    "dominant_features": [
+      "low_insurance_coverage_index",
+      "low_disease_burden_index",
+      "low_facility_index"
+    ],
+    "policy_tags": [
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "on_track",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "on_track"
+    }
+  },
+  "Maluku": {
+    "province": "Maluku",
+    "cluster_id": 3,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 120.5,
+      "workforce_capacity_index": 295.0109,
+      "disease_burden_index": 152.46,
+      "insurance_coverage_index": 0.1341
+    },
+    "dominant_features": [
+      "low_insurance_coverage_index",
+      "low_disease_burden_index",
+      "low_facility_index"
+    ],
+    "policy_tags": [
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "on_track",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "on_track"
+    }
+  },
+  "Maluku Utara": {
+    "province": "Maluku Utara",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 75.0,
+      "workforce_capacity_index": 299.5942,
+      "disease_burden_index": 151.5317,
+      "insurance_coverage_index": 0.1544
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Nusa Tenggara Barat": {
+    "province": "Nusa Tenggara Barat",
+    "cluster_id": 3,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 88.5,
+      "workforce_capacity_index": 80.8333,
+      "disease_burden_index": 148.315,
+      "insurance_coverage_index": 0.1622
+    },
+    "dominant_features": [
+      "low_insurance_coverage_index",
+      "low_disease_burden_index",
+      "low_facility_index"
+    ],
+    "policy_tags": [
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "on_track",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "on_track"
+    }
+  },
+  "Nusa Tenggara Timur": {
+    "province": "Nusa Tenggara Timur",
+    "cluster_id": 1,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 220.5,
+      "workforce_capacity_index": 20.5,
+      "disease_burden_index": 240.2967,
+      "insurance_coverage_index": 0.1569
+    },
+    "dominant_features": [
+      "low_workforce_capacity_index",
+      "high_facility_index",
+      "low_disease_burden_index"
+    ],
+    "policy_tags": [
+      "DISTRIBUSI_TENAGA"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "on_track",
+      "3.c": "needs_attention"
+    }
+  },
+  "Papua": {
+    "province": "Papua",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 61.5,
+      "workforce_capacity_index": 345.7609,
+      "disease_burden_index": 569.0456,
+      "insurance_coverage_index": 0.1673
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Papua Barat": {
+    "province": "Papua Barat",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 40.5,
+      "workforce_capacity_index": 164.0833,
+      "disease_burden_index": 224.5,
+      "insurance_coverage_index": 0.158
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Papua Barat Daya": {
+    "province": "Papua Barat Daya",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 59.5,
+      "workforce_capacity_index": 167.2609,
+      "disease_burden_index": 138.2418,
+      "insurance_coverage_index": 0.1758
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Papua Pegunungan": {
+    "province": "Papua Pegunungan",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 91.5,
+      "workforce_capacity_index": 144.5833,
+      "disease_burden_index": 125.0241,
+      "insurance_coverage_index": 0.2233
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Papua Selatan": {
+    "province": "Papua Selatan",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 42.5,
+      "workforce_capacity_index": 201.7609,
+      "disease_burden_index": 109.1867,
+      "insurance_coverage_index": 0.1882
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Papua Tengah": {
+    "province": "Papua Tengah",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 63.5,
+      "workforce_capacity_index": 201.5942,
+      "disease_burden_index": 393.1483,
+      "insurance_coverage_index": 0.1562
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Riau": {
+    "province": "Riau",
+    "cluster_id": 3,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 121.0,
+      "workforce_capacity_index": 151.9167,
+      "disease_burden_index": 207.5333,
+      "insurance_coverage_index": 0.1587
+    },
+    "dominant_features": [
+      "low_insurance_coverage_index",
+      "low_disease_burden_index",
+      "low_facility_index"
+    ],
+    "policy_tags": [
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "on_track",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "on_track"
+    }
+  },
+  "Sulawesi Barat": {
+    "province": "Sulawesi Barat",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 49.0,
+      "workforce_capacity_index": 295.8442,
+      "disease_burden_index": 64.6583,
+      "insurance_coverage_index": 0.2162
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Sulawesi Selatan": {
+    "province": "Sulawesi Selatan",
+    "cluster_id": 1,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 237.0,
+      "workforce_capacity_index": 59.6667,
+      "disease_burden_index": 359.5483,
+      "insurance_coverage_index": 0.1771
+    },
+    "dominant_features": [
+      "low_workforce_capacity_index",
+      "high_facility_index",
+      "low_disease_burden_index"
+    ],
+    "policy_tags": [
+      "DISTRIBUSI_TENAGA"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "on_track",
+      "3.c": "needs_attention"
+    }
+  },
+  "Sulawesi Tengah": {
+    "province": "Sulawesi Tengah",
+    "cluster_id": 3,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 109.5,
+      "workforce_capacity_index": 180.4167,
+      "disease_burden_index": 156.7783,
+      "insurance_coverage_index": 0.1656
+    },
+    "dominant_features": [
+      "low_insurance_coverage_index",
+      "low_disease_burden_index",
+      "low_facility_index"
+    ],
+    "policy_tags": [
+      "PERLUASAN_JKN"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "on_track",
+      "3.8": "needs_attention",
+      "3.b": "on_track",
+      "3.c": "on_track"
+    }
+  },
+  "Sulawesi Tenggara": {
+    "province": "Sulawesi Tenggara",
+    "cluster_id": 1,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 154.0,
+      "workforce_capacity_index": 83.1775,
+      "disease_burden_index": 133.4917,
+      "insurance_coverage_index": 0.1722
+    },
+    "dominant_features": [
+      "low_workforce_capacity_index",
+      "high_facility_index",
+      "low_disease_burden_index"
+    ],
+    "policy_tags": [
+      "DISTRIBUSI_TENAGA"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "on_track",
+      "3.c": "needs_attention"
+    }
+  },
+  "Sulawesi Utara": {
+    "province": "Sulawesi Utara",
+    "cluster_id": 0,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 101.5,
+      "workforce_capacity_index": 256.0833,
+      "disease_burden_index": 172.405,
+      "insurance_coverage_index": 0.1723
+    },
+    "dominant_features": [
+      "high_insurance_coverage_index",
+      "low_facility_index",
+      "high_workforce_capacity_index"
+    ],
+    "policy_tags": [
+      "TAMBAH_FASILITAS"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "needs_attention",
+      "3.c": "on_track"
+    }
+  },
+  "Sumatera Barat": {
+    "province": "Sumatera Barat",
+    "cluster_id": 1,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 140.0,
+      "workforce_capacity_index": 90.8333,
+      "disease_burden_index": 128.1267,
+      "insurance_coverage_index": 0.1698
+    },
+    "dominant_features": [
+      "low_workforce_capacity_index",
+      "high_facility_index",
+      "low_disease_burden_index"
+    ],
+    "policy_tags": [
+      "DISTRIBUSI_TENAGA"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "on_track",
+      "3.c": "needs_attention"
+    }
+  },
+  "Sumatera Selatan": {
+    "province": "Sumatera Selatan",
+    "cluster_id": 1,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 177.0,
+      "workforce_capacity_index": 45.5109,
+      "disease_burden_index": 190.8195,
+      "insurance_coverage_index": 0.154
+    },
+    "dominant_features": [
+      "low_workforce_capacity_index",
+      "high_facility_index",
+      "low_disease_burden_index"
+    ],
+    "policy_tags": [
+      "DISTRIBUSI_TENAGA"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "on_track",
+      "3.c": "needs_attention"
+    }
+  },
+  "Sumatera Utara": {
+    "province": "Sumatera Utara",
+    "cluster_id": 1,
+    "cluster_method": "gmm",
+    "index_values": {
+      "facility_index": 309.5,
+      "workforce_capacity_index": 136.1667,
+      "disease_burden_index": 539.1623,
+      "insurance_coverage_index": 0.1445
+    },
+    "dominant_features": [
+      "low_workforce_capacity_index",
+      "high_facility_index",
+      "low_disease_burden_index"
+    ],
+    "policy_tags": [
+      "DISTRIBUSI_TENAGA"
+    ],
+    "sdg_status": {
+      "3.1": "data_limited",
+      "3.3": "needs_attention",
+      "3.8": "on_track",
+      "3.b": "on_track",
+      "3.c": "needs_attention"
+    }
+  }
+}
