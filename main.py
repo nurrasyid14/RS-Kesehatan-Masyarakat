@@ -531,6 +531,48 @@ with tab1:
         with col_img2:
             st.image("data/warehouse/profiles/cluster_radar_gmm.png", caption="Visualisasi Radar Perbandingan Cluster GMM", use_container_width=True)
 
+    # Interactive Cluster Characteristics Visualization
+    st.markdown("### Analisis Perbandingan Indeks Karakteristik Cluster")
+    st.write("Visualisasi interaktif perbandingan nilai rata-rata dari empat pilar indeks kesehatan utama di setiap cluster:")
+
+    features_map = {
+        "facility_index_scaled": "Kapasitas Fasilitas",
+        "workforce_capacity_index_scaled": "Tenaga Kesehatan",
+        "disease_burden_index_scaled": "Beban Penyakit",
+        "insurance_coverage_index_scaled": "Jaminan Kesehatan"
+    }
+    
+    cluster_means = scaled_df.groupby("cluster_id")[list(features_map.keys())].mean().reset_index()
+    cluster_means["Cluster"] = cluster_means["cluster_id"].map(lambda x: f"Cluster {x}")
+    
+    # Melt dataframe for plotting
+    melted_df = cluster_means.melt(
+        id_vars=["Cluster"],
+        value_vars=list(features_map.keys()),
+        var_name="Indikator",
+        value_name="Nilai Rata-rata"
+    )
+    melted_df["Indikator"] = melted_df["Indikator"].map(features_map)
+    
+    fig_cluster = px.bar(
+        melted_df,
+        x="Cluster",
+        y="Nilai Rata-rata",
+        color="Indikator",
+        barmode="group",
+        labels={"Nilai Rata-rata": "Nilai Rata-rata Indeks (0-1)", "Cluster": "Cluster"},
+        color_discrete_sequence=px.colors.qualitative.Pastel,
+        template="plotly_dark",
+        height=400
+    )
+    fig_cluster.update_layout(
+        margin=dict(l=20, r=20, t=10, b=20),
+        paper_bgcolor="rgba(0,0,0,0)",
+        plot_bgcolor="rgba(0,0,0,0)",
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+    )
+    st.plotly_chart(fig_cluster, use_container_width=True)
+
 # -------------------------------------------------------------
 # Tab 2: Dashboard Provinsi & Rekomendasi
 # -------------------------------------------------------------
@@ -673,19 +715,23 @@ with tab2:
                                 
                         source_lbl = ", ".join([s.replace("_", " ") for s in sources]).upper()
                         
-                        st.markdown(f"""
-                        <div class="rec-card">
-                            <div class="rec-header">
-                                <span class="rec-title">{idx+1}. {policy}</span>
-                                <span class="rec-score">Skor: {score:.3f}</span>
-                            </div>
-                            <p class="rec-desc" style="margin-bottom: 8px;">{desc}</p>
-                            {f'<div style="font-size: 11px; color:#94a3b8; line-height: 1.4; border-top:1px solid #334155; padding-top: 6px; margin-top: 6px;">{details}</div>' if details else ''}
-                            <div style="font-size: 10px; color: #818cf8; font-weight:600; margin-top: 5px; text-transform: uppercase;">
-                                Engine: {source_lbl}
-                            </div>
-                        </div>
-                        """, unsafe_allow_html=True)
+                        card_html = (
+                            f'<div class="rec-card">'
+                            f'<div class="rec-header">'
+                            f'<span class="rec-title">{idx+1}. {policy}</span>'
+                            f'<span class="rec-score">Skor: {score:.3f}</span>'
+                            f'</div>'
+                            f'<p class="rec-desc" style="margin-bottom: 8px;">{desc}</p>'
+                        )
+                        if details:
+                            card_html += f'<div style="font-size: 11px; color:#94a3b8; line-height: 1.4; border-top:1px solid #334155; padding-top: 6px; margin-top: 6px;">{details}</div>'
+                        card_html += (
+                            f'<div style="font-size: 10px; color: #818cf8; font-weight:600; margin-top: 5px; text-transform: uppercase;">'
+                            f'Engine: {source_lbl}'
+                            f'</div>'
+                            f'</div>'
+                        )
+                        st.markdown(card_html, unsafe_allow_html=True)
 
             # -----------------------------------------------------
             # Detailed Sub-Tables of Raw Indicators per Dimension
