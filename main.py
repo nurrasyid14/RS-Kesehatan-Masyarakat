@@ -602,28 +602,38 @@ with tab2:
             st.rerun()
             
         # Get province data
-        prov_scaled = scaled_df[scaled_df["Provinsi"] == selected_province]
-        if prov_scaled.empty:
-            st.error(f"Data untuk provinsi {selected_province} tidak ditemukan.")
+        is_national = (selected_province == "Akumulasi Nasional")
+        
+        if is_national:
+            deficit_score = scaled_df["deficit_index"].mean()
+            deficit_tier = "Rata-rata Nasional"
+            cluster_label = "Agregasi data kesehatan seluruh provinsi di Indonesia"
+            deficit_color = "#38bdf8"
+            show_profile = True
         else:
-            row_scaled = prov_scaled.iloc[0]
-            deficit_score = row_scaled["deficit_index"]
-            deficit_tier = row_scaled["deficit_tier"]
-            cluster_id = int(row_scaled["cluster_id"])
-            cluster_label = CLUSTER_LABELS[cluster_id]
-            
-            # Determine color for the deficit
-            deficit_color = (
-                "#dc2626" if deficit_tier == "Defisit Sangat Tinggi" else
-                "#ea580c" if deficit_tier == "Defisit Tinggi" else
-                "#d97706" if deficit_tier == "Defisit Sedang" else
-                "#16a34a"
-            )
-            
+            prov_scaled = scaled_df[scaled_df["Provinsi"] == selected_province]
+            if prov_scaled.empty:
+                st.error(f"Data untuk provinsi {selected_province} tidak ditemukan.")
+                show_profile = False
+            else:
+                row_scaled = prov_scaled.iloc[0]
+                deficit_score = row_scaled["deficit_index"]
+                deficit_tier = row_scaled["deficit_tier"]
+                cluster_id = int(row_scaled["cluster_id"])
+                cluster_label = CLUSTER_LABELS[cluster_id]
+                deficit_color = (
+                    "#dc2626" if deficit_tier == "Defisit Sangat Tinggi" else
+                    "#ea580c" if deficit_tier == "Defisit Tinggi" else
+                    "#d97706" if deficit_tier == "Defisit Sedang" else
+                    "#16a34a"
+                )
+                show_profile = True
+                
+        if show_profile:
             st.markdown(f"""
             <div style="background: rgba(30, 41, 59, 0.5); border-left: 8px solid {deficit_color}; padding: 25px; border-radius: 12px; margin-bottom: 25px; border-top: 1px solid #334155; border-right: 1px solid #334155; border-bottom: 1px solid #334155;">
                 <span class="badge-deficit" style="background-color: {deficit_color}; margin-bottom: 10px; display: inline-block;">{deficit_tier}</span>
-                <h2 style="margin: 5px 0 10px 0; color: #f8fafc; font-size: 32px; font-weight: 700;">Profil Provinsi {selected_province}</h2>
+                <h2 style="margin: 5px 0 10px 0; color: #f8fafc; font-size: 32px; font-weight: 700;">Profil {selected_province}</h2>
                 <div style="color: #38bdf8; font-size: 15px; font-weight: 500; margin-bottom: 5px;">
                     {cluster_label}
                 </div>
@@ -638,11 +648,23 @@ with tab2:
             
             with col_left:
                 st.markdown("### SDG 3 Target Capaian")
-                sdg_scores = sdg_mapper.calculate_sdg(selected_province)
-                
-                # Fetch status details from profile reference
-                prov_summary = region_summaries.get(selected_province, {})
-                sdg_status_ref = prov_summary.get("sdg_status", {})
+                if is_national:
+                    sdg_scores = {
+                        "3.3": np.mean([sdg_mapper.calculate_sdg(p)["3.3"] for p in scaled_df["Provinsi"]]),
+                        "3.8": np.mean([sdg_mapper.calculate_sdg(p)["3.8"] for p in scaled_df["Provinsi"]]),
+                        "3.c": np.mean([sdg_mapper.calculate_sdg(p)["3.c"] for p in scaled_df["Provinsi"]]),
+                        "3.d": np.mean([sdg_mapper.calculate_sdg(p)["3.d"] for p in scaled_df["Provinsi"]])
+                    }
+                    sdg_status_ref = {
+                        "3.3": "NEEDS ATTENTION",
+                        "3.8": "NEEDS ATTENTION",
+                        "3.c": "NEEDS ATTENTION",
+                        "3.d": "NEEDS ATTENTION"
+                    }
+                else:
+                    sdg_scores = sdg_mapper.calculate_sdg(selected_province)
+                    prov_summary = region_summaries.get(selected_province, {})
+                    sdg_status_ref = prov_summary.get("sdg_status", {})
                 
                 # Render beautiful custom gauges/bars
                 for target_code, target_name, target_desc in [
@@ -682,8 +704,41 @@ with tab2:
             with col_right:
                 st.markdown("### Rekomendasi Kebijakan (Engine Hybrid)")
                 
-                # Run recommender system
-                recs = recommender.generate_final_recommendations(selected_province)
+                if is_national:
+                    all_recs = []
+                    for prov in scaled_df["Provinsi"]:
+                        all_recs.extend(recommender.generate_final_recommendations(prov))
+                    
+                    rec_summary = {}
+                    for r in all_recs:
+                        tag = r["tag"]
+                        if tag not in rec_summary:
+                            rec_summary[tag] = {
+                                "tag": tag,
+                                "policy": r["policy"],
+                                "sdg_target": r["sdg_target"],
+                                "total_score": 0.0,
+                                "count": 0,
+                                "sources": set()
+                            }
+                        rec_summary[tag]["total_score"] += r["hybrid_score"]
+                        rec_summary[tag]["count"] += 1
+                        rec_summary[tag]["sources"].update(r["sources"])
+                    
+                    national_recs = []
+                    for tag, info in rec_summary.items():
+                        national_recs.append({
+                            "tag": tag,
+                            "policy": info["policy"],
+                            "hybrid_score": info["total_score"] / info["count"],
+                            "sdg_target": info["sdg_target"],
+                            "sources": list(info["sources"]),
+                            "count": info["count"]
+                        })
+                    national_recs.sort(key=lambda x: (x["count"], x["hybrid_score"]), reverse=True)
+                    recs = national_recs[:5]
+                else:
+                    recs = recommender.generate_final_recommendations(selected_province)
                 
                 if not recs:
                     st.info("Tidak ada rekomendasi khusus yang teridentifikasi.")
@@ -699,21 +754,26 @@ with tab2:
                         desc = ""
                         details = ""
                         
-                        if "content" in meta and meta["content"]:
-                            desc = meta["content"].get("description", "")
-                            precedents = meta["content"].get("precedents", [])
-                            if precedents:
-                                details += f"<b>Daerah Kemiripan:</b> {', '.join(precedents[:4])}<br/>"
-                        
-                        if "case" in meta and meta["case"]:
-                            case_lbl = meta["case"].get("case_label", "")
-                            notes = meta["case"].get("adaptation_notes", [])
-                            if notes:
-                                details += f"<b>Catatan Adaptasi Kasus:</b> {', '.join(notes)}<br/>"
-                            if not desc:
-                                desc = f"Berdasarkan adaptasi kasus: {case_lbl}"
-                                
-                        source_lbl = ", ".join([s.replace("_", " ") for s in sources]).upper()
+                        if is_national:
+                            desc = f"Intervensi kebijakan prioritas untuk {rec['count']} dari {len(scaled_df)} provinsi di Indonesia."
+                            details = f"<b>Tingkat Kebutuhan Nasional:</b> Sangat Tinggi (Berdasarkan akumulasi kebutuhan daerah)<br/>"
+                            source_lbl = "AGGREGATED"
+                        else:
+                            if "content" in meta and meta["content"]:
+                                desc = meta["content"].get("description", "")
+                                precedents = meta["content"].get("precedents", [])
+                                if precedents:
+                                    details += f"<b>Daerah Kemiripan:</b> {', '.join(precedents[:4])}<br/>"
+                            
+                            if "case" in meta and meta["case"]:
+                                case_lbl = meta["case"].get("case_label", "")
+                                notes = meta["case"].get("adaptation_notes", [])
+                                if notes:
+                                    details += f"<b>Catatan Adaptasi Kasus:</b> {', '.join(notes)}<br/>"
+                                if not desc:
+                                    desc = f"Berdasarkan adaptasi kasus: {case_lbl}"
+                                    
+                            source_lbl = ", ".join([s.replace("_", " ") for s in sources]).upper()
                         
                         card_html = (
                             f'<div class="rec-card">'
@@ -741,12 +801,24 @@ with tab2:
             # Dimension 1: Fasilitas
             exp_fac = st.expander("🏨 1. Fasilitas Kesehatan & Sarana Prasarana")
             with exp_fac:
-                prov_fac = dim_facilities[dim_facilities["Provinsi"] == selected_province]
-                if prov_fac.empty:
+                if is_national:
+                    row_fac = {
+                        "facility_index": dim_facilities["facility_index"].mean(),
+                        "Jumlah Rumah Sakit Umum": dim_facilities["Jumlah Rumah Sakit Umum"].sum(),
+                        "Jumlah Rumah Sakit Khusus": dim_facilities["Jumlah Rumah Sakit Khusus"].sum(),
+                        "Jumlah Puskesmas Rawat Inap": dim_facilities["Jumlah Puskesmas Rawat Inap"].sum(),
+                        "Jumlah Puskesmas Non Rawat Inap": dim_facilities["Jumlah Puskesmas Non Rawat Inap"].sum()
+                    }
+                    prov_fac = dim_facilities
+                else:
+                    prov_fac = dim_facilities[dim_facilities["Provinsi"] == selected_province]
+                    
+                if prov_fac.empty and not is_national:
                     st.write("Data tidak tersedia.")
                 else:
-                    row_fac = prov_fac.iloc[0]
-                    st.markdown(f"**Indeks Kapasitas Fasilitas Kesehatan: `{row_fac['facility_index']:.2f}`**")
+                    if not is_national:
+                        row_fac = prov_fac.iloc[0]
+                    st.markdown(f"**Indeks Kapasitas Fasilitas Kesehatan (Rata-rata): `{row_fac['facility_index']:.2f}`**" if is_national else f"**Indeks Kapasitas Fasilitas Kesehatan: `{row_fac['facility_index']:.2f}`**")
                     
                     # Display metrics
                     m_col1, m_col2, m_col3, m_col4 = st.columns(4)
@@ -760,12 +832,24 @@ with tab2:
             # Dimension 2: Tenaga Kesehatan
             exp_wf = st.expander("🧑‍⚕️ 2. Ketersediaan & kecukupan Tenaga Kesehatan")
             with exp_wf:
-                prov_wf = dim_workforce[dim_workforce["Provinsi"] == selected_province]
-                if prov_wf.empty:
+                if is_national:
+                    row_wf = {
+                        "workforce_capacity_index": dim_workforce["workforce_capacity_index"].mean(),
+                        "Tenaga Medis": dim_workforce["Tenaga Medis"].sum(),
+                        "Tenaga Kebidanan": dim_workforce["Tenaga Kebidanan"].sum(),
+                        "Tenaga Kefarmasian": dim_workforce["Tenaga Kefarmasian"].sum(),
+                        "Tenaga Gizi": dim_workforce["Tenaga Gizi"].sum()
+                    }
+                    prov_wf = dim_workforce
+                else:
+                    prov_wf = dim_workforce[dim_workforce["Provinsi"] == selected_province]
+                    
+                if prov_wf.empty and not is_national:
                     st.write("Data tidak tersedia.")
                 else:
-                    row_wf = prov_wf.iloc[0]
-                    st.markdown(f"**Indeks Kapasitas Tenaga Kesehatan: `{row_wf['workforce_capacity_index']:.2f}`**")
+                    if not is_national:
+                        row_wf = prov_wf.iloc[0]
+                    st.markdown(f"**Indeks Kapasitas Tenaga Kesehatan (Rata-rata): `{row_wf['workforce_capacity_index']:.2f}`**" if is_national else f"**Indeks Kapasitas Tenaga Kesehatan: `{row_wf['workforce_capacity_index']:.2f}`**")
                     
                     # Metrics
                     w_col1, w_col2, w_col3, w_col4 = st.columns(4)
@@ -779,29 +863,51 @@ with tab2:
             # Dimension 3: Penyakit
             exp_dis = st.expander("🦠 3. Beban Penyakit Menular & Epidemiologi")
             with exp_dis:
-                prov_dis = dim_disease[dim_disease["Provinsi"] == selected_province]
-                if prov_dis.empty:
+                if is_national:
+                    row_dis = {
+                        "disease_burden_index": dim_disease["disease_burden_index"].mean(),
+                        "Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru": dim_disease["Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru"].sum(),
+                        "Jumlah Kasus Penyakit - Angka Penemuan TBC": dim_disease["Jumlah Kasus Penyakit - Angka Penemuan TBC"].mean(),
+                        "Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk": dim_disease["Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk"].mean()
+                    }
+                    prov_dis = dim_disease
+                else:
+                    prov_dis = dim_disease[dim_disease["Provinsi"] == selected_province]
+                    
+                if prov_dis.empty and not is_national:
                     st.write("Data tidak tersedia.")
                 else:
-                    row_dis = prov_dis.iloc[0]
-                    st.markdown(f"**Indeks Beban Penyakit: `{row_dis['disease_burden_index']:.2f}`** (Semakin tinggi semakin parah)")
+                    if not is_national:
+                        row_dis = prov_dis.iloc[0]
+                    st.markdown(f"**Indeks Beban Penyakit (Rata-rata): `{row_dis['disease_burden_index']:.2f}`** (Semakin tinggi semakin parah)" if is_national else f"**Indeks Beban Penyakit: `{row_dis['disease_burden_index']:.2f}`** (Semakin tinggi semakin parah)")
                     
                     d_col1, d_col2, d_col3 = st.columns(3)
                     d_col1.metric("HIV/AIDS Kasus Baru", int(row_dis.get("Jumlah Kasus Penyakit - HIV/AIDS Kasus Baru", 0)))
-                    d_col2.metric("TBC Discovery Rate", f"{row_dis.get('Jumlah Kasus Penyakit - Angka Penemuan TBC', 0)}%")
-                    d_col3.metric("Malaria per 1.000 Penduduk", f"{row_dis.get('Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk', 0)}")
+                    d_col2.metric("TBC Discovery Rate", f"{row_dis.get('Jumlah Kasus Penyakit - Angka Penemuan TBC', 0):.1f}%" if is_national else f"{row_dis.get('Jumlah Kasus Penyakit - Angka Penemuan TBC', 0)}%")
+                    d_col3.metric("Malaria per 1.000 Penduduk", f"{row_dis.get('Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk', 0):.2f}" if is_national else f"{row_dis.get('Jumlah Kasus Penyakit - Angka Kesakitan Malaria per 1.000 Penduduk', 0)}")
                     
                     st.dataframe(prov_dis, use_container_width=True, hide_index=True)
                     
             # Dimension 4: Jaminan Kesehatan
             exp_ins = st.expander("💳 4. Jaminan Kesehatan & Proteksi Finansial")
             with exp_ins:
-                prov_ins = dim_insurance[dim_insurance["Provinsi"] == selected_province]
-                if prov_ins.empty:
+                if is_national:
+                    row_ins = {
+                        "insurance_coverage_index": dim_insurance["insurance_coverage_index"].mean(),
+                        "penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio": dim_insurance["penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_penerima_bantuan_iuran_(pbi)_ratio"].mean(),
+                        "penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio": dim_insurance["penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_bpjs_kesehatan_non-penerima_bantuan_iuran_(non-pbi)_ratio"].mean(),
+                        "penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio": dim_insurance["penduduk_yang_memiliki_jaminan_kesehatan_menurut_jenis_jaminan_-_asuransi_swasta_ratio"].mean()
+                    }
+                    prov_ins = dim_insurance
+                else:
+                    prov_ins = dim_insurance[dim_insurance["Provinsi"] == selected_province]
+                    
+                if prov_ins.empty and not is_national:
                     st.write("Data tidak tersedia.")
                 else:
-                    row_ins = prov_ins.iloc[0]
-                    st.markdown(f"**Indeks Cakupan Jaminan Finansial Kesehatan: `{row_ins['insurance_coverage_index']:.4f}`**")
+                    if not is_national:
+                        row_ins = prov_ins.iloc[0]
+                    st.markdown(f"**Indeks Cakupan Jaminan Finansial Kesehatan (Rata-rata): `{row_ins['insurance_coverage_index']:.4f}`**" if is_national else f"**Indeks Cakupan Jaminan Finansial Kesehatan: `{row_ins['insurance_coverage_index']:.4f}`**")
                     
                     # Ratios
                     i_col1, i_col2, i_col3 = st.columns(3)
@@ -814,12 +920,22 @@ with tab2:
             # Dimension 5: Hambatan Akses
             exp_bar = st.expander("🚧 5. Hambatan Akses Layanan Kesehatan")
             with exp_bar:
-                prov_bar = dim_barrier[dim_barrier["Provinsi"] == selected_province]
-                if prov_bar.empty:
+                if is_national:
+                    row_bar = {
+                        "penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio": dim_barrier["penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio"].mean(),
+                        "penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio": dim_barrier["penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_ada_biaya_transport_ratio"].mean(),
+                        "penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio": dim_barrier["penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_mengobati_sendiri_ratio"].mean()
+                    }
+                    prov_bar = dim_barrier
+                else:
+                    prov_bar = dim_barrier[dim_barrier["Provinsi"] == selected_province]
+                    
+                if prov_bar.empty and not is_national:
                     st.write("Data tidak tersedia.")
                 else:
-                    row_bar = prov_bar.iloc[0]
-                    st.markdown("**Proporsi Alasan Utama Masyarakat Tidak Berobat Jalan meskipun Memiliki Keluhan Kesehatan:**")
+                    if not is_national:
+                        row_bar = prov_bar.iloc[0]
+                    st.markdown("**Rata-rata Proporsi Alasan Utama Masyarakat Tidak Berobat Jalan meskipun Memiliki Keluhan Kesehatan:**" if is_national else "**Proporsi Alasan Utama Masyarakat Tidak Berobat Jalan meskipun Memiliki Keluhan Kesehatan:**")
                     
                     b_col1, b_col2, b_col3 = st.columns(3)
                     b_col1.metric("Tidak Ada Biaya Berobat", f"{row_bar.get('penduduk_yang_mempunyai_keluhan_kesehatan_selama_sebulan_terakhir_dan_tidak_berobat_jalan_menurut_alasan_utama_tidak_berobat_jalan_-_tidak_punya_biaya_berobat_ratio', 0)*100:.1f}%")
@@ -867,8 +983,31 @@ with tab2:
             
         # Grid rendering using HTML CSS or native column buttons
         cols = st.columns(4)
+        
+        # Render National Accumulation card as the very first card if search allows
+        grid_offset = 0
+        if not search_query or "nasional" in search_query.lower() or "akumulasi" in search_query.lower() or "indonesia" in search_query.lower():
+            col = cols[0]
+            with col:
+                st.markdown("""
+                <style>
+                    .btn-wrap-national div.stButton > button {
+                        border-left: 6px solid #38bdf8 !important;
+                    }
+                </style>
+                <div class="grid-card-wrapper btn-wrap-national">
+                """, unsafe_allow_html=True)
+                
+                national_label = "🇮🇩 Akumulasi Nasional\n\nSeluruh Indonesia\nDefisit: Rata-rata\nAgregasi Data"
+                if st.button(national_label, key="btn_national", use_container_width=True):
+                    st.session_state.selected_province = "Akumulasi Nasional"
+                    st.query_params["selected_province"] = "Akumulasi Nasional"
+                    st.rerun()
+                st.markdown("</div>", unsafe_allow_html=True)
+            grid_offset = 1
+
         for i, (idx, row) in enumerate(filtered_df.reset_index(drop=True).iterrows()):
-            col = cols[i % 4]
+            col = cols[(i + grid_offset) % 4]
             with col:
                 prov_name = row["Provinsi"]
                 def_score = row["deficit_index"]
